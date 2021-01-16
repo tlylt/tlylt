@@ -20,3 +20,12 @@ Here are some ideas to get you started:
 align="center"
 src="https://github-readme-stats.vercel.app/api/?username=tlylt&theme=dracula"
 />
+
+---
+My latest hustle is an educational game developed as an intern of Soristic (a local non-profit organization).
+
+Feel free to scan the QR code below to play on mobile.
+
+(However, play on Desktop/Laptop for better experience, here is the [link](https://tlylt.github.io/empathy_game_youth/))
+
+![QR code](https://github.com/tlylt/empathy_game_youth/blob/master/assets/images/empathyYouth.png)
