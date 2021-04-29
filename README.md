@@ -20,7 +20,7 @@ Here are some ideas to get you started:
 align="center"
 src="https://github-readme-stats.vercel.app/api/?username=tlylt&theme=dracula"
 />
----
+
 I write about stuff at [my personal blog](https://tlylt.github.io/blog/) and [Dev.to](https://dev.to/tlylt)
 
 ---
