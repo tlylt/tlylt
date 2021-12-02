@@ -21,4 +21,4 @@ align="center"
 src="https://github-readme-stats.vercel.app/api/?username=tlylt&theme=dracula"
 />
 
-I write about stuff at [my personal blog](https://tlylt.github.io/blog/) and [Dev.to](https://dev.to/tlylt)
+I write about stuff at [my personal blog](https://www.yongliangliu.com/) and [Dev.to](https://dev.to/tlylt)
