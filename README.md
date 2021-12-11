@@ -21,3 +21,11 @@ src="https://github-readme-stats.vercel.app/api/?username=tlylt&theme=dracula"
 />
 
 I write about stuff at [my personal blog](https://www.yongliangliu.com/) and [Dev.to](https://dev.to/tlylt)
+
+### 📕 Latest Blog Posts
+
+<!-- BLOG-POST-LIST:START --><!-- BLOG-POST-LIST:END -->
+
+### 🔥 Recent Activities
+
+<!--START_SECTION:activity--><!--END_SECTION:activity-->
