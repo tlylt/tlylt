@@ -24,7 +24,13 @@ I write about stuff at [my personal blog](https://www.yongliangliu.com/) and [De
 
 ### 📕 Latest Blog Posts
 
-<!-- BLOG-POST-LIST:START --><!-- BLOG-POST-LIST:END -->
+<!-- BLOG-POST-LIST:START -->
+- [CS3216 &quot;The Last Lecture&quot;](https://www.yongliangliu.com/blog/cs3216-the-last-lecture/)
+- [On Picking The Right Tool](https://www.yongliangliu.com/blog/on-picking-the-right-tool/)
+- [The U in UX](https://www.yongliangliu.com/blog/the-u-in-ux/)
+- [Data Visualization With Highcharts](https://www.yongliangliu.com/blog/data-visualization-with-highcharts/)
+- [It&#39;s not a bug but a feature?](https://www.yongliangliu.com/blog/its-not-a-bug-but-a-feature/)
+<!-- BLOG-POST-LIST:END -->
 
 ### 🔥 Recent Activities
 
