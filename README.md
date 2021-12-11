@@ -28,4 +28,4 @@ I write about stuff at [my personal blog](https://www.yongliangliu.com/) and [De
 
 ### 🔥 Recent Activities
 
-<!--START_SECTION:activity--><!--END_SECTION:activity-->
+<!--START_SECTION:activity-->
