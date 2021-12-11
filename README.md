@@ -31,7 +31,3 @@ I write about stuff at [my personal blog](https://www.yongliangliu.com/) and [De
 - [Data Visualization With Highcharts](https://www.yongliangliu.com/blog/data-visualization-with-highcharts/)
 - [It&#39;s not a bug but a feature?](https://www.yongliangliu.com/blog/its-not-a-bug-but-a-feature/)
 <!-- BLOG-POST-LIST:END -->
-
-### 🔥 Recent Activities
-
-<!--START_SECTION:activity-->
