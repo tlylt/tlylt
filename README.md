@@ -25,24 +25,20 @@ I write about stuff at [my personal blog](https://www.yongliangliu.com/) and [De
 ### 📕 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [End of University Year 2 Semester 1](https://www.yongliangliu.com/blog/year-2-sem-1/)
 - [CS3216 &quot;The Last Lecture&quot;](https://www.yongliangliu.com/blog/cs3216-the-last-lecture/)
 - [On Picking The Right Tool](https://www.yongliangliu.com/blog/on-picking-the-right-tool/)
 - [The U in UX](https://www.yongliangliu.com/blog/the-u-in-ux/)
 - [Data Visualization With Highcharts](https://www.yongliangliu.com/blog/data-visualization-with-highcharts/)
-- [It&#39;s not a bug but a feature?](https://www.yongliangliu.com/blog/its-not-a-bug-but-a-feature/)
 <!-- BLOG-POST-LIST:END -->
 
 ### ⚡ Activities
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-3%20mins-blue)
-
-![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
-
 **🐱 My GitHub Data** 
 
-> 🏆 2,169 Contributions in the Year 2021
+> 🏆 2,179 Contributions in the Year 2021
  > 
-> 📦 227.5 kB Used in GitHub's Storage 
+> 📦 226.9 kB Used in GitHub's Storage 
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -53,22 +49,22 @@ I write about stuff at [my personal blog](https://www.yongliangliu.com/) and [De
 **I'm an Early 🐤** 
 
 ```text
-🌞 Morning    284 commits    ███████░░░░░░░░░░░░░░░░░░   27.98% 
-🌆 Daytime    301 commits    ███████░░░░░░░░░░░░░░░░░░   29.66% 
-🌃 Evening    368 commits    █████████░░░░░░░░░░░░░░░░   36.26% 
-🌙 Night      62 commits     █░░░░░░░░░░░░░░░░░░░░░░░░   6.11%
+🌞 Morning    287 commits    ███████░░░░░░░░░░░░░░░░░░   28.03% 
+🌆 Daytime    302 commits    ███████░░░░░░░░░░░░░░░░░░   29.49% 
+🌃 Evening    369 commits    █████████░░░░░░░░░░░░░░░░   36.04% 
+🌙 Night      66 commits     █░░░░░░░░░░░░░░░░░░░░░░░░   6.45%
 
 ```
 📅 **I'm Most Productive on Wednesday** 
 
 ```text
-Monday       100 commits    ██░░░░░░░░░░░░░░░░░░░░░░░   9.85% 
-Tuesday      142 commits    ███░░░░░░░░░░░░░░░░░░░░░░   13.99% 
-Wednesday    178 commits    ████░░░░░░░░░░░░░░░░░░░░░   17.54% 
-Thursday     160 commits    ████░░░░░░░░░░░░░░░░░░░░░   15.76% 
-Friday       141 commits    ███░░░░░░░░░░░░░░░░░░░░░░   13.89% 
-Saturday     157 commits    ███░░░░░░░░░░░░░░░░░░░░░░   15.47% 
-Sunday       137 commits    ███░░░░░░░░░░░░░░░░░░░░░░   13.5%
+Monday       101 commits    ██░░░░░░░░░░░░░░░░░░░░░░░   9.86% 
+Tuesday      142 commits    ███░░░░░░░░░░░░░░░░░░░░░░   13.87% 
+Wednesday    178 commits    ████░░░░░░░░░░░░░░░░░░░░░   17.38% 
+Thursday     160 commits    ████░░░░░░░░░░░░░░░░░░░░░   15.62% 
+Friday       141 commits    ███░░░░░░░░░░░░░░░░░░░░░░   13.77% 
+Saturday     159 commits    ████░░░░░░░░░░░░░░░░░░░░░   15.53% 
+Sunday       143 commits    ███░░░░░░░░░░░░░░░░░░░░░░   13.96%
 
 ```
 
@@ -79,16 +75,24 @@ Sunday       137 commits    ███░░░░░░░░░░░░░░�
 ⌚︎ Time Zone: Asia/Singapore
 
 💬 Programming Languages: 
-No Activity Tracked This Week
+TypeScript               4 hrs 33 mins       █████████████████░░░░░░░░   68.76% 
+JavaScript               54 mins             ███░░░░░░░░░░░░░░░░░░░░░░   13.64% 
+Markdown                 44 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   11.16% 
+JSON                     10 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   2.69% 
+YAML                     8 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   2.17%
 
 🔥 Editors: 
-No Activity Tracked This Week
+VS Code                  6 hrs 38 mins       █████████████████████████   100.0%
 
 🐱‍💻 Projects: 
-No Activity Tracked This Week
+charity-benchmark        4 hrs 37 mins       █████████████████░░░░░░░░   69.62% 
+luminus-quiz-review      1 hr 1 min          ███░░░░░░░░░░░░░░░░░░░░░░   15.43% 
+blogging                 28 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   7.1% 
+tlylt                    21 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   5.5% 
+blog                     8 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   2.25%
 
 💻 Operating System: 
-No Activity Tracked This Week
+Windows                  6 hrs 38 mins       █████████████████████████   100.0%
 
 ```
 
@@ -104,10 +108,6 @@ CSS                      5 repos             ██░░░░░░░░░�
 ```
 
 
-**Timeline**
 
-![Chart not found](https://raw.githubusercontent.com/tlylt/tlylt/master/charts/bar_graph.png) 
-
-
- Last Updated on 11/12/2021
+ Last Updated on 13/12/2021
 <!--END_SECTION:waka-->
