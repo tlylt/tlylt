@@ -24,11 +24,11 @@ I write about stuff at [my personal blog](https://www.yongliangliu.com/) and [De
 ### 📕 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Prove that the problem of determining whether a graph is connected is evasive](https://www.yongliangliu.com/blog/prove-graph-check-connected-evasive/)
 - [Prove that every sorting algorithm must make at least lg&lpar;n!&rpar; comparisons](https://www.yongliangliu.com/blog/prove-sorting-at-least-lgn/)
 - [Automatically add all existing GitHub repo contributors with all-contributors-cli](https://www.yongliangliu.com/blog/all-contributors-cli-recognize-existing/)
 - [Coding Interview Preparation](https://www.yongliangliu.com/blog/coding-interview-prep/)
 - [Web Development Interview Preparation](https://www.yongliangliu.com/blog/web-dev-interview-prep/)
-- [End of University Year 2 Semester 1](https://www.yongliangliu.com/blog/year-2-sem-1/)
 <!-- BLOG-POST-LIST:END -->
 
 ### ⚡ Activities
