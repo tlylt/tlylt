@@ -1,9 +1,5 @@
 ## Hi there, I'm Yongliang 👋 
 
-- 🔭 I’m actively developing & maintaining an Open Source project:
-
-[![MarkBind](https://github-readme-stats.vercel.app/api/pin/?username=markbind&repo=markbind)](https://github.com/MarkBind/markbind)
-
 ## GitHub Statistics :chart_with_upwards_trend:
 <div align="center">
 <div style="display: flex; align-items: center; justify-content: center;">
@@ -14,9 +10,17 @@
 </div>
 
 ## Connect with me <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px">
-I write about stuff at [my personal blog](https://www.yongliangliu.com/) and [Dev.to](https://dev.to/tlylt)
 
-### 📕 Latest Blog Posts
+<a href="https://www.yongliangliu.com/" target="blank"><img align="center" src="static/site-icon.png" alt="yongliangliu.com" height="40" width="40" /></a>
+<a href="https://dev.to/tlylt" target="blank"><img align="center" src="static/dev-badge.svg" alt="dev.to/tlylt" height="35" width="35" /></a>
+
+### 🔭Open Source
+
+[![MarkBind](https://github-readme-stats.vercel.app/api/pin/?username=markbind&repo=markbind)](https://github.com/MarkBind/markbind)
+
+
+<details>
+<summary> <b>📕 Latest Blog Posts</b> </summary>
 
 <!-- BLOG-POST-LIST:START -->
 - [Intermediate GitHub CI Workflow Walk Through](https://www.yongliangliu.com/blog/intermediate-github-ci-workflow-walk-through/)
@@ -26,7 +30,11 @@ I write about stuff at [my personal blog](https://www.yongliangliu.com/) and [De
 - [Automatically add all existing GitHub repo contributors with all-contributors-cli](https://www.yongliangliu.com/blog/all-contributors-cli-recognize-existing/)
 <!-- BLOG-POST-LIST:END -->
 
-### ⚡ Activities
+</details>
+
+<details>
+<summary> <b>📊 Weekly Stats</b> </summary>
+
 <!--START_SECTION:waka-->
 **🐱 My GitHub Data** 
 
@@ -80,3 +88,5 @@ CSS                      7 mins              ░░░░░░░░░░░�
 
  Last Updated on 08/04/2022 00:36:13 UTC
 <!--END_SECTION:waka-->
+
+</details>
