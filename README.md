@@ -14,7 +14,9 @@
 <a href="https://www.yongliangliu.com/" target="blank"><img align="center" src="static/site-icon.png" alt="yongliangliu.com" height="40" width="40" /></a>
 <a href="https://dev.to/tlylt" target="blank"><img align="center" src="static/dev-badge.svg" alt="dev.to/tlylt" height="35" width="35" /></a>
 
-### 🔭Open Source
+## Activities <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
+
+### 🔭 Open Source
 
 [![MarkBind](https://github-readme-stats.vercel.app/api/pin/?username=markbind&repo=markbind)](https://github.com/MarkBind/markbind)
 
