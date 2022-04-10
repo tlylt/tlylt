@@ -1,14 +1,19 @@
-### Hi there, I'm Yongliang 👋 
+## Hi there, I'm Yongliang 👋 
 
 - 🔭 I’m actively developing & maintaining an Open Source project:
 
 [![MarkBind](https://github-readme-stats.vercel.app/api/pin/?username=markbind&repo=markbind)](https://github.com/MarkBind/markbind)
 
-<img
-align="center"
-src="https://github-readme-stats.vercel.app/api/?username=tlylt&theme=dracula"
-/>
+## GitHub Statistics :chart_with_upwards_trend:
+<div align="center">
+<div style="display: flex; align-items: center; justify-content: center;">
 
+[![](https://github-readme-stats.vercel.app/api?username=tlylt&show_icons=true&theme=tokyonight&hide_border=true&locale=en)](https://github.com/tlylt)
+[![](https://github-readme-streak-stats.herokuapp.com/?user=tlylt&theme=tokyonight&hide_border=true)](https://github.com/tlylt)
+</div>
+</div>
+
+## Connect with me <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px">
 I write about stuff at [my personal blog](https://www.yongliangliu.com/) and [Dev.to](https://dev.to/tlylt)
 
 ### 📕 Latest Blog Posts
