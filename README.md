@@ -11,8 +11,8 @@
 
 ## Connect with me <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px">
 
-<a href="https://www.yongliangliu.com/" target="blank"><img align="center" src="static/site-icon.png" alt="yongliangliu.com" height="40" width="40" /></a>
-<a href="https://dev.to/tlylt" target="blank"><img align="center" src="static/dev-badge.svg" alt="dev.to/tlylt" height="35" width="35" /></a>
+<a href="https://www.yongliangliu.com/" target="_blank"><img align="center" src="static/site-icon.png" alt="yongliangliu.com" height="40" width="40" /></a>
+<a href="https://dev.to/tlylt" target="_blank"><img align="center" src="static/dev-badge.svg" alt="dev.to/tlylt" height="35" width="35" /></a>
 
 ## Activities <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
 
