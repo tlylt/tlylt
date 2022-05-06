@@ -21,7 +21,7 @@
 [![MarkBind](https://github-readme-stats.vercel.app/api/pin/?username=markbind&repo=markbind)](https://github.com/MarkBind/markbind)
 
 <details>
-<summary> <b> My Published GitHub Actions </b> </summary>
+<summary> <b>🎬 Published GitHub Actions </b> </summary>
 
 [![install-graphviz](https://github-readme-stats.vercel.app/api/pin/?username=tlylt&repo=install-graphviz)](https://github.com/tlylt/install-graphviz)
 
