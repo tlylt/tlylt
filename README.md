@@ -35,11 +35,11 @@
 <summary> <b>📕 Latest Blog Posts</b> </summary>
 
 <!-- BLOG-POST-LIST:START -->
+- [Open Source Software &lpar;OSS&rpar; Developer Journey](https://www.yongliangliu.com/blog/oss-dev-logs/)
 - [Crossing abstraction barrier between parent and child class](https://www.yongliangliu.com/blog/cross-abstraction-barrier-between-parent-child/)
 - [Intermediate GitHub CI Workflow Walk Through](https://www.yongliangliu.com/blog/intermediate-github-ci-workflow-walk-through/)
 - [RooFind](https://www.yongliangliu.com/blog/roofind/)
 - [Prove that the problem of determining whether a graph is connected is evasive](https://www.yongliangliu.com/blog/prove-graph-check-connected-evasive/)
-- [Prove that every sorting algorithm must make at least lg&lpar;n!&rpar; comparisons](https://www.yongliangliu.com/blog/prove-sorting-at-least-lgn/)
 <!-- BLOG-POST-LIST:END -->
 
 </details>
