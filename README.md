@@ -1,5 +1,12 @@
 ## Hi there, I'm Yongliang 👋 
 
+### My current interests
+
+- Conversational Agent
+- Testing
+- DevOps
+- Blockchain
+
 ## GitHub Statistics :chart_with_upwards_trend:
 <div align="center">
 <div style="display: flex; align-items: center; justify-content: center;">
