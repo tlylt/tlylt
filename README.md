@@ -3,14 +3,14 @@
 ### Recent Activities
 
 <!--START_SECTION:activity-->
-1. ❗️ Opened issue [#45](https://github.com/crookedneighbor/markdown-it-linkify-images/issues/45) in [crookedneighbor/markdown-it-linkify-images](https://github.com/crookedneighbor/markdown-it-linkify-images)
-2. ❗️ Opened issue [#47](https://github.com/arve0/markdown-it-implicit-figures/issues/47) in [arve0/markdown-it-implicit-figures](https://github.com/arve0/markdown-it-implicit-figures)
-3. 💪 Opened PR [#2044](https://github.com/MarkBind/markbind/pull/2044) in [MarkBind/markbind](https://github.com/MarkBind/markbind)
-4. ❗️ Opened issue [#2043](https://github.com/MarkBind/markbind/issues/2043) in [MarkBind/markbind](https://github.com/MarkBind/markbind)
-5. 🗣 Commented on [#2021](https://github.com/MarkBind/markbind/issues/2021) in [MarkBind/markbind](https://github.com/MarkBind/markbind)
+1. 💪 Opened PR [#46](https://github.com/crookedneighbor/markdown-it-linkify-images/pull/46) in [crookedneighbor/markdown-it-linkify-images](https://github.com/crookedneighbor/markdown-it-linkify-images)
+2. ❗️ Opened issue [#45](https://github.com/crookedneighbor/markdown-it-linkify-images/issues/45) in [crookedneighbor/markdown-it-linkify-images](https://github.com/crookedneighbor/markdown-it-linkify-images)
+3. ❗️ Opened issue [#47](https://github.com/arve0/markdown-it-implicit-figures/issues/47) in [arve0/markdown-it-implicit-figures](https://github.com/arve0/markdown-it-implicit-figures)
+4. 💪 Opened PR [#2044](https://github.com/MarkBind/markbind/pull/2044) in [MarkBind/markbind](https://github.com/MarkBind/markbind)
+5. ❗️ Opened issue [#2043](https://github.com/MarkBind/markbind/issues/2043) in [MarkBind/markbind](https://github.com/MarkBind/markbind)
 <!--END_SECTION:activity-->
 
-### My current interests
+### My Current Interests
 
 - Conversational Agent
 - Testing
@@ -26,7 +26,7 @@
 </div>
 </div>
 
-## Connect with me <img src="https://media.giphy.com/media/2wh5K5yE3ulp3xgYcG/giphy-downsized.gif" width="30">
+## Connect With Me <img src="https://media.giphy.com/media/2wh5K5yE3ulp3xgYcG/giphy-downsized.gif" width="30">
 
 <a href="https://www.yongliangliu.com/" target="_blank"><img align="center" src="static/site-icon.png" alt="yongliangliu.com" height="40" width="40" /></a>
 <a href="https://dev.to/tlylt" target="_blank"><img align="center" src="static/dev-badge.svg" alt="dev.to/tlylt" height="35" width="35" /></a>
