@@ -11,7 +11,7 @@
 <div align="center">
 <div style="display: flex; align-items: center; justify-content: center;">
 
-[![](https://github-readme-stats.vercel.app/api?username=tlylt&show_icons=true&theme=tokyonight&hide_border=true&locale=en)](https://github.com/tlylt)
+[![](https://github-readme-stats-tlylt.vercel.app/api?username=tlylt&show_icons=true&theme=tokyonight&hide_border=true&locale=en)](https://github.com/tlylt)
 [![](https://github-readme-streak-stats.herokuapp.com/?user=tlylt&theme=tokyonight&hide_border=true)](https://github.com/tlylt)
 </div>
 </div>
@@ -26,16 +26,16 @@
 
 ### 🔭 Open Source
 
-[![MarkBind](https://github-readme-stats.vercel.app/api/pin/?username=markbind&repo=markbind)](https://github.com/MarkBind/markbind)
+[![MarkBind](https://github-readme-stats-tlylt.vercel.app/api/pin/?username=markbind&repo=markbind)](https://github.com/MarkBind/markbind)
 
 <details>
 <summary> <b>🎬 Published GitHub Actions </b> </summary>
 
-[![install-graphviz](https://github-readme-stats.vercel.app/api/pin/?username=tlylt&repo=install-graphviz)](https://github.com/tlylt/install-graphviz)
+[![install-graphviz](https://github-readme-stats-tlylt.vercel.app/api/pin/?username=tlylt&repo=install-graphviz)](https://github.com/tlylt/install-graphviz)
 
-[![reposense-action](https://github-readme-stats.vercel.app/api/pin/?username=tlylt&repo=reposense-action)](https://github.com/tlylt/reposense-action)
+[![reposense-action](https://github-readme-stats-tlylt.vercel.app/api/pin/?username=tlylt&repo=reposense-action)](https://github.com/tlylt/reposense-action)
 
-[![markbin-action](https://github-readme-stats.vercel.app/api/pin/?username=markbind&repo=markbind-action)](https://github.com/MarkBind/markbind-action)
+[![markbin-action](https://github-readme-stats-tlylt.vercel.app/api/pin/?username=markbind&repo=markbind-action)](https://github.com/MarkBind/markbind-action)
 
 </details>
 
