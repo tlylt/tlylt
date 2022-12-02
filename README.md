@@ -1,6 +1,6 @@
-## Hi there, I'm Yongliang 👋 
+## Hi there, I'm Yongliang 👋
 
-### Recent Activity
+### Recent Activities
 
 <!--START_SECTION:activity-->
 1. ❗️ Opened issue [#45](https://github.com/crookedneighbor/markdown-it-linkify-images/issues/45) in [crookedneighbor/markdown-it-linkify-images](https://github.com/crookedneighbor/markdown-it-linkify-images)
