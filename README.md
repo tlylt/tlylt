@@ -1,5 +1,10 @@
 ## Hi there, I'm Yongliang 👋 
 
+### Recent Activity
+
+<!--START_SECTION:activity-->
+<!--END_SECTION:activity-->
+
 ### My current interests
 
 - Conversational Agent
