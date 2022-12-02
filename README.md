@@ -3,6 +3,11 @@
 ### Recent Activity
 
 <!--START_SECTION:activity-->
+1. ❗️ Opened issue [#45](https://github.com/crookedneighbor/markdown-it-linkify-images/issues/45) in [crookedneighbor/markdown-it-linkify-images](https://github.com/crookedneighbor/markdown-it-linkify-images)
+2. ❗️ Opened issue [#47](https://github.com/arve0/markdown-it-implicit-figures/issues/47) in [arve0/markdown-it-implicit-figures](https://github.com/arve0/markdown-it-implicit-figures)
+3. 💪 Opened PR [#2044](https://github.com/MarkBind/markbind/pull/2044) in [MarkBind/markbind](https://github.com/MarkBind/markbind)
+4. ❗️ Opened issue [#2043](https://github.com/MarkBind/markbind/issues/2043) in [MarkBind/markbind](https://github.com/MarkBind/markbind)
+5. 🗣 Commented on [#2021](https://github.com/MarkBind/markbind/issues/2021) in [MarkBind/markbind](https://github.com/MarkBind/markbind)
 <!--END_SECTION:activity-->
 
 ### My current interests
