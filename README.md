@@ -10,7 +10,7 @@
 5. 🗣 Commented on [#2021](https://github.com/MarkBind/markbind/issues/2021) in [MarkBind/markbind](https://github.com/MarkBind/markbind)
 <!--END_SECTION:activity-->
 
-### My current interests
+### My Current Interests
 
 - Conversational Agent
 - Testing
@@ -26,7 +26,7 @@
 </div>
 </div>
 
-## Connect with me <img src="https://media.giphy.com/media/2wh5K5yE3ulp3xgYcG/giphy-downsized.gif" width="30">
+## Connect With Me <img src="https://media.giphy.com/media/2wh5K5yE3ulp3xgYcG/giphy-downsized.gif" width="30">
 
 <a href="https://www.yongliangliu.com/" target="_blank"><img align="center" src="static/site-icon.png" alt="yongliangliu.com" height="40" width="40" /></a>
 <a href="https://dev.to/tlylt" target="_blank"><img align="center" src="static/dev-badge.svg" alt="dev.to/tlylt" height="35" width="35" /></a>
