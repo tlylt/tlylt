@@ -3,11 +3,11 @@
 ### Recent Activities
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#46](https://github.com/crookedneighbor/markdown-it-linkify-images/pull/46) in [crookedneighbor/markdown-it-linkify-images](https://github.com/crookedneighbor/markdown-it-linkify-images)
-2. ❗️ Opened issue [#45](https://github.com/crookedneighbor/markdown-it-linkify-images/issues/45) in [crookedneighbor/markdown-it-linkify-images](https://github.com/crookedneighbor/markdown-it-linkify-images)
-3. ❗️ Opened issue [#47](https://github.com/arve0/markdown-it-implicit-figures/issues/47) in [arve0/markdown-it-implicit-figures](https://github.com/arve0/markdown-it-implicit-figures)
-4. 💪 Opened PR [#2044](https://github.com/MarkBind/markbind/pull/2044) in [MarkBind/markbind](https://github.com/MarkBind/markbind)
-5. ❗️ Opened issue [#2043](https://github.com/MarkBind/markbind/issues/2043) in [MarkBind/markbind](https://github.com/MarkBind/markbind)
+1. ❗️ Opened issue [#2045](https://github.com/MarkBind/markbind/issues/2045) in [MarkBind/markbind](https://github.com/MarkBind/markbind)
+2. 🗣 Commented on [#45](https://github.com/crookedneighbor/markdown-it-linkify-images/issues/45) in [crookedneighbor/markdown-it-linkify-images](https://github.com/crookedneighbor/markdown-it-linkify-images)
+3. 💪 Opened PR [#46](https://github.com/crookedneighbor/markdown-it-linkify-images/pull/46) in [crookedneighbor/markdown-it-linkify-images](https://github.com/crookedneighbor/markdown-it-linkify-images)
+4. ❗️ Opened issue [#45](https://github.com/crookedneighbor/markdown-it-linkify-images/issues/45) in [crookedneighbor/markdown-it-linkify-images](https://github.com/crookedneighbor/markdown-it-linkify-images)
+5. ❗️ Opened issue [#47](https://github.com/arve0/markdown-it-implicit-figures/issues/47) in [arve0/markdown-it-implicit-figures](https://github.com/arve0/markdown-it-implicit-figures)
 <!--END_SECTION:activity-->
 
 ### My Current Interests
