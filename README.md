@@ -3,11 +3,11 @@
 ### Recent Activities
 
 <!--START_SECTION:activity-->
-1. ❗️ Closed issue [#2040](https://github.com/MarkBind/markbind/issues/2040) in [MarkBind/markbind](https://github.com/MarkBind/markbind)
-2. 🎉 Merged PR [#2041](https://github.com/MarkBind/markbind/pull/2041) in [MarkBind/markbind](https://github.com/MarkBind/markbind)
-3. 💪 Opened PR [#2046](https://github.com/MarkBind/markbind/pull/2046) in [MarkBind/markbind](https://github.com/MarkBind/markbind)
-4. ❗️ Opened issue [#2045](https://github.com/MarkBind/markbind/issues/2045) in [MarkBind/markbind](https://github.com/MarkBind/markbind)
-5. 🗣 Commented on [#45](https://github.com/crookedneighbor/markdown-it-linkify-images/issues/45) in [crookedneighbor/markdown-it-linkify-images](https://github.com/crookedneighbor/markdown-it-linkify-images)
+1. 🗣 Commented on [#1825](https://github.com/MarkBind/markbind/issues/1825) in [MarkBind/markbind](https://github.com/MarkBind/markbind)
+2. ❗️ Closed issue [#2033](https://github.com/MarkBind/markbind/issues/2033) in [MarkBind/markbind](https://github.com/MarkBind/markbind)
+3. 🎉 Merged PR [#2042](https://github.com/MarkBind/markbind/pull/2042) in [MarkBind/markbind](https://github.com/MarkBind/markbind)
+4. ❗️ Closed issue [#2040](https://github.com/MarkBind/markbind/issues/2040) in [MarkBind/markbind](https://github.com/MarkBind/markbind)
+5. 🎉 Merged PR [#2041](https://github.com/MarkBind/markbind/pull/2041) in [MarkBind/markbind](https://github.com/MarkBind/markbind)
 <!--END_SECTION:activity-->
 
 ### My Current Interests
