@@ -3,11 +3,11 @@
 ### Recent Activities
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#689](https://github.com/dendronhq/dendron-site/pull/689) in [dendronhq/dendron-site](https://github.com/dendronhq/dendron-site)
-2. 🗣 Commented on [#728](https://github.com/MarkBind/markbind/issues/728) in [MarkBind/markbind](https://github.com/MarkBind/markbind)
-3. 🗣 Commented on [#1825](https://github.com/MarkBind/markbind/issues/1825) in [MarkBind/markbind](https://github.com/MarkBind/markbind)
-4. 🗣 Commented on [#1825](https://github.com/MarkBind/markbind/issues/1825) in [MarkBind/markbind](https://github.com/MarkBind/markbind)
-5. ❗️ Closed issue [#2033](https://github.com/MarkBind/markbind/issues/2033) in [MarkBind/markbind](https://github.com/MarkBind/markbind)
+1. ❗️ Closed issue [#2028](https://github.com/MarkBind/markbind/issues/2028) in [MarkBind/markbind](https://github.com/MarkBind/markbind)
+2. 🎉 Merged PR [#2046](https://github.com/MarkBind/markbind/pull/2046) in [MarkBind/markbind](https://github.com/MarkBind/markbind)
+3. ❗️ Closed issue [#2045](https://github.com/MarkBind/markbind/issues/2045) in [MarkBind/markbind](https://github.com/MarkBind/markbind)
+4. 💪 Opened PR [#689](https://github.com/dendronhq/dendron-site/pull/689) in [dendronhq/dendron-site](https://github.com/dendronhq/dendron-site)
+5. 🗣 Commented on [#728](https://github.com/MarkBind/markbind/issues/728) in [MarkBind/markbind](https://github.com/MarkBind/markbind)
 <!--END_SECTION:activity-->
 
 ### My Current Interests
