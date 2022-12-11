@@ -3,11 +3,11 @@
 ### Recent Activities
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#46](https://github.com/crookedneighbor/markdown-it-linkify-images/pull/46) in [crookedneighbor/markdown-it-linkify-images](https://github.com/crookedneighbor/markdown-it-linkify-images)
-2. ❗️ Opened issue [#45](https://github.com/crookedneighbor/markdown-it-linkify-images/issues/45) in [crookedneighbor/markdown-it-linkify-images](https://github.com/crookedneighbor/markdown-it-linkify-images)
-3. ❗️ Opened issue [#47](https://github.com/arve0/markdown-it-implicit-figures/issues/47) in [arve0/markdown-it-implicit-figures](https://github.com/arve0/markdown-it-implicit-figures)
-4. 💪 Opened PR [#2044](https://github.com/MarkBind/markbind/pull/2044) in [MarkBind/markbind](https://github.com/MarkBind/markbind)
-5. ❗️ Opened issue [#2043](https://github.com/MarkBind/markbind/issues/2043) in [MarkBind/markbind](https://github.com/MarkBind/markbind)
+1. 💪 Opened PR [#2052](https://github.com/MarkBind/markbind/pull/2052) in [MarkBind/markbind](https://github.com/MarkBind/markbind)
+2. ❗️ Opened issue [#2050](https://github.com/MarkBind/markbind/issues/2050) in [MarkBind/markbind](https://github.com/MarkBind/markbind)
+3. 🗣 Commented on [#424](https://github.com/dylang/npm-check/issues/424) in [dylang/npm-check](https://github.com/dylang/npm-check)
+4. 🗣 Commented on [#1975](https://github.com/MarkBind/markbind/issues/1975) in [MarkBind/markbind](https://github.com/MarkBind/markbind)
+5. 🗣 Commented on [#2047](https://github.com/MarkBind/markbind/issues/2047) in [MarkBind/markbind](https://github.com/MarkBind/markbind)
 <!--END_SECTION:activity-->
 
 ### My Current Interests
@@ -66,39 +66,39 @@
 <summary> <b>📊 Weekly Stats</b> </summary>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-594%20hrs%2015%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-616%20hrs%206%20mins-blue)
 
 **🐱 My GitHub Data** 
 
-> 🏆 4,404 Contributions in the Year 2022
+> 🏆 4,433 Contributions in the Year 2022
  > 
-> 📦 322.0 kB Used in GitHub's Storage 
+> 📦 321.9 kB Used in GitHub's Storage 
  > 
 > 🚫 Not Opted to Hire
  > 
-> 📜 132 Public Repositories 
+> 📜 137 Public Repositories 
  > 
-> 🔑 24 Private Repositories  
+> 🔑 25 Private Repositories  
  > 
 **I'm an Early 🐤** 
 
 ```text
-🌞 Morning    381 commits    ███████░░░░░░░░░░░░░░░░░░   29.77% 
-🌆 Daytime    311 commits    ██████░░░░░░░░░░░░░░░░░░░   24.3% 
-🌃 Evening    487 commits    █████████░░░░░░░░░░░░░░░░   38.05% 
-🌙 Night      101 commits    ██░░░░░░░░░░░░░░░░░░░░░░░   7.89%
+🌞 Morning    362 commits    ███████░░░░░░░░░░░░░░░░░░   30.55% 
+🌆 Daytime    277 commits    █████░░░░░░░░░░░░░░░░░░░░   23.38% 
+🌃 Evening    457 commits    █████████░░░░░░░░░░░░░░░░   38.57% 
+🌙 Night      89 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   7.51%
 
 ```
 📅 **I'm Most Productive on Friday** 
 
 ```text
-Monday       163 commits    ███░░░░░░░░░░░░░░░░░░░░░░   12.73% 
-Tuesday      114 commits    ██░░░░░░░░░░░░░░░░░░░░░░░   8.91% 
-Wednesday    195 commits    ███░░░░░░░░░░░░░░░░░░░░░░   15.23% 
-Thursday     198 commits    ███░░░░░░░░░░░░░░░░░░░░░░   15.47% 
-Friday       264 commits    █████░░░░░░░░░░░░░░░░░░░░   20.62% 
-Saturday     188 commits    ███░░░░░░░░░░░░░░░░░░░░░░   14.69% 
-Sunday       158 commits    ███░░░░░░░░░░░░░░░░░░░░░░   12.34%
+Monday       154 commits    ███░░░░░░░░░░░░░░░░░░░░░░   13.0% 
+Tuesday      104 commits    ██░░░░░░░░░░░░░░░░░░░░░░░   8.78% 
+Wednesday    178 commits    ███░░░░░░░░░░░░░░░░░░░░░░   15.02% 
+Thursday     182 commits    ███░░░░░░░░░░░░░░░░░░░░░░   15.36% 
+Friday       249 commits    █████░░░░░░░░░░░░░░░░░░░░   21.01% 
+Saturday     168 commits    ███░░░░░░░░░░░░░░░░░░░░░░   14.18% 
+Sunday       150 commits    ███░░░░░░░░░░░░░░░░░░░░░░   12.66%
 
 ```
 
@@ -109,16 +109,16 @@ Sunday       158 commits    ███░░░░░░░░░░░░░░�
 ⌚︎ Time Zone: Asia/Singapore
 
 💬 Programming Languages: 
-JavaScript               4 hrs 22 mins       ███████████████░░░░░░░░░░   61.88% 
-Markdown                 1 hr 24 mins        █████░░░░░░░░░░░░░░░░░░░░   19.95% 
-YAML                     31 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   7.33% 
-CSV                      18 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   4.4% 
-JSON                     11 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   2.74%
+Markdown                 8 hrs 23 mins       ████████████░░░░░░░░░░░░░   50.14% 
+JavaScript               5 hrs 26 mins       ████████░░░░░░░░░░░░░░░░░   32.48% 
+JSON                     1 hr 35 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   9.48% 
+Other                    27 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   2.76% 
+YAML                     20 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   2.04%
 
 ```
 
 
- Last Updated on 02/12/2022 00:36:34 UTC
+ Last Updated on 11/12/2022 00:40:58 UTC
 <!--END_SECTION:waka-->
 
 </details>
