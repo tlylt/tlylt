@@ -3,11 +3,11 @@
 ### Recent Activities
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#424](https://github.com/dylang/npm-check/issues/424) in [dylang/npm-check](https://github.com/dylang/npm-check)
-2. 🗣 Commented on [#1975](https://github.com/MarkBind/markbind/issues/1975) in [MarkBind/markbind](https://github.com/MarkBind/markbind)
-3. 🗣 Commented on [#2047](https://github.com/MarkBind/markbind/issues/2047) in [MarkBind/markbind](https://github.com/MarkBind/markbind)
-4. ❗️ Closed issue [#2028](https://github.com/MarkBind/markbind/issues/2028) in [MarkBind/markbind](https://github.com/MarkBind/markbind)
-5. 🎉 Merged PR [#2046](https://github.com/MarkBind/markbind/pull/2046) in [MarkBind/markbind](https://github.com/MarkBind/markbind)
+1. 💪 Opened PR [#2052](https://github.com/MarkBind/markbind/pull/2052) in [MarkBind/markbind](https://github.com/MarkBind/markbind)
+2. ❗️ Opened issue [#2050](https://github.com/MarkBind/markbind/issues/2050) in [MarkBind/markbind](https://github.com/MarkBind/markbind)
+3. 🗣 Commented on [#424](https://github.com/dylang/npm-check/issues/424) in [dylang/npm-check](https://github.com/dylang/npm-check)
+4. 🗣 Commented on [#1975](https://github.com/MarkBind/markbind/issues/1975) in [MarkBind/markbind](https://github.com/MarkBind/markbind)
+5. 🗣 Commented on [#2047](https://github.com/MarkBind/markbind/issues/2047) in [MarkBind/markbind](https://github.com/MarkBind/markbind)
 <!--END_SECTION:activity-->
 
 ### My Current Interests
