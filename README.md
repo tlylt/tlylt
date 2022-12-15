@@ -54,7 +54,7 @@
 
 <!-- BLOG-POST-LIST:START -->
 - [Repository Pattern, Revisited](https://www.yongliangliu.com/blog/repository-pattern-revisited/)
-- [Open Source Software &lpar;OSS&rpar; Developer Journey](https://www.yongliangliu.com/blog/oss-dev-logs/)
+- [End of University Year 2 Sem 2](https://www.yongliangliu.com/blog/end-of-year-2-sem-2/)
 - [Crossing abstraction barrier between parent and child class](https://www.yongliangliu.com/blog/cross-abstraction-barrier-between-parent-child/)
 - [Intermediate GitHub CI Workflow Walk Through](https://www.yongliangliu.com/blog/intermediate-github-ci-workflow-walk-through/)
 - [RooFind](https://www.yongliangliu.com/blog/roofind/)
