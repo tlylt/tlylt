@@ -53,11 +53,11 @@
 <summary> <b>📕 Latest Blog Posts</b> </summary>
 
 <!-- BLOG-POST-LIST:START -->
+- [Resources for Orbital CP2106 Independent Software Development Project](https://www.yongliangliu.com/blog/orbital-prep/)
 - [A Brief Description of Ransomware Attacks](https://www.yongliangliu.com/blog/ransomware-essay/)
 - [End of University Year 3 Sem 1](https://www.yongliangliu.com/blog/end-of-year-3-sem-1/)
 - [Repository Pattern, Revisited](https://www.yongliangliu.com/blog/repository-pattern-revisited/)
 - [End of University Year 2 Sem 2](https://www.yongliangliu.com/blog/end-of-year-2-sem-2/)
-- [Crossing abstraction barrier between parent and child class](https://www.yongliangliu.com/blog/cross-abstraction-barrier-between-parent-child/)
 <!-- BLOG-POST-LIST:END -->
 
 </details>
