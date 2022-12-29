@@ -53,11 +53,11 @@
 <summary> <b>📕 Latest Blog Posts</b> </summary>
 
 <!-- BLOG-POST-LIST:START -->
+- [My Journey into Open Source](https://www.yongliangliu.com/blog/my-journey-into-open-source/)
 - [Resources for Orbital CP2106 Independent Software Development Project](https://www.yongliangliu.com/blog/orbital-prep/)
 - [A Brief Description of Ransomware Attacks](https://www.yongliangliu.com/blog/ransomware-essay/)
 - [End of University Year 3 Sem 1](https://www.yongliangliu.com/blog/end-of-year-3-sem-1/)
 - [Repository Pattern, Revisited](https://www.yongliangliu.com/blog/repository-pattern-revisited/)
-- [End of University Year 2 Sem 2](https://www.yongliangliu.com/blog/end-of-year-2-sem-2/)
 <!-- BLOG-POST-LIST:END -->
 
 </details>
