@@ -3,10 +3,10 @@
 ### Recent Activities
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#2052](https://github.com/MarkBind/markbind/issues/2052) in [MarkBind/markbind](https://github.com/MarkBind/markbind)
+1. 🗣 Commented on [#2063](https://github.com/MarkBind/markbind/issues/2063) in [MarkBind/markbind](https://github.com/MarkBind/markbind)
 2. 🗣 Commented on [#2052](https://github.com/MarkBind/markbind/issues/2052) in [MarkBind/markbind](https://github.com/MarkBind/markbind)
-3. 🗣 Commented on [#3875](https://github.com/dendronhq/dendron/issues/3875) in [dendronhq/dendron](https://github.com/dendronhq/dendron)
-4. 💪 Opened PR [#2063](https://github.com/MarkBind/markbind/pull/2063) in [MarkBind/markbind](https://github.com/MarkBind/markbind)
+3. 🗣 Commented on [#2059](https://github.com/MarkBind/markbind/issues/2059) in [MarkBind/markbind](https://github.com/MarkBind/markbind)
+4. 🗣 Commented on [#2052](https://github.com/MarkBind/markbind/issues/2052) in [MarkBind/markbind](https://github.com/MarkBind/markbind)
 5. 🗣 Commented on [#2052](https://github.com/MarkBind/markbind/issues/2052) in [MarkBind/markbind](https://github.com/MarkBind/markbind)
 <!--END_SECTION:activity-->
 
