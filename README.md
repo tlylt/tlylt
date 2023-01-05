@@ -66,11 +66,11 @@
 <summary> <b>📊 Weekly Stats</b> </summary>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-667%20hrs%2016%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-674%20hrs%2035%20mins-blue)
 
 **🐱 My GitHub Data** 
 
-> 🏆 14 Contributions in the Year 2023
+> 🏆 15 Contributions in the Year 2023
  > 
 > 📦 332.4 kB Used in GitHub's Storage 
  > 
@@ -78,7 +78,7 @@
  > 
 > 📜 140 Public Repositories 
  > 
-> 🔑 25 Private Repositories  
+> 🔑 26 Private Repositories  
  > 
 **I'm an Early 🐤** 
 
@@ -109,16 +109,16 @@ Sunday       134 commits    ███░░░░░░░░░░░░░░�
 ⌚︎ Time Zone: Asia/Singapore
 
 💬 Programming Languages: 
-Markdown                 14 hrs 59 mins      ███████████████░░░░░░░░░░   61.17% 
-TypeScript               5 hrs 16 mins       █████░░░░░░░░░░░░░░░░░░░░   21.54% 
-JavaScript               3 hrs 23 mins       ███░░░░░░░░░░░░░░░░░░░░░░   13.84% 
-JSON                     39 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   2.68% 
+Markdown                 13 hrs 30 mins      █████████████░░░░░░░░░░░░   54.1% 
+TypeScript               8 hrs 28 mins       ████████░░░░░░░░░░░░░░░░░   33.98% 
+JavaScript               1 hr 49 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   7.29% 
+JSON                     51 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   3.45% 
 Other                    8 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.6%
 
 ```
 
 
- Last Updated on 04/01/2023 00:35:21 UTC
+ Last Updated on 05/01/2023 00:37:34 UTC
 <!--END_SECTION:waka-->
 
 </details>
