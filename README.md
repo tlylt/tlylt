@@ -3,11 +3,11 @@
 ### Recent Activities
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#23441](https://github.com/mdn/content/pull/23441) in [mdn/content](https://github.com/mdn/content)
-2. 💪 Opened PR [#23435](https://github.com/mdn/content/pull/23435) in [mdn/content](https://github.com/mdn/content)
-3. 🗣 Commented on [#113](https://github.com/mdn/workflows/issues/113) in [mdn/workflows](https://github.com/mdn/workflows)
-4. ❗️ Opened issue [#113](https://github.com/mdn/workflows/issues/113) in [mdn/workflows](https://github.com/mdn/workflows)
-5. 🗣 Commented on [#15852](https://github.com/mdn/content/issues/15852) in [mdn/content](https://github.com/mdn/content)
+1. ❗️ Closed issue [#113](https://github.com/mdn/workflows/issues/113) in [mdn/workflows](https://github.com/mdn/workflows)
+2. 🗣 Commented on [#113](https://github.com/mdn/workflows/issues/113) in [mdn/workflows](https://github.com/mdn/workflows)
+3. 💪 Opened PR [#23441](https://github.com/mdn/content/pull/23441) in [mdn/content](https://github.com/mdn/content)
+4. 💪 Opened PR [#23435](https://github.com/mdn/content/pull/23435) in [mdn/content](https://github.com/mdn/content)
+5. 🗣 Commented on [#113](https://github.com/mdn/workflows/issues/113) in [mdn/workflows](https://github.com/mdn/workflows)
 <!--END_SECTION:activity-->
 
 ### My Current Interests
