@@ -3,11 +3,11 @@
 ### Recent Activities
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#61](https://github.com/deckgo/gatsby-remark-highlight-code/issues/61) in [deckgo/gatsby-remark-highlight-code](https://github.com/deckgo/gatsby-remark-highlight-code)
+1. 🗣 Commented on [#295](https://github.com/foambubble/foam/issues/295) in [foambubble/foam](https://github.com/foambubble/foam)
 2. 🗣 Commented on [#61](https://github.com/deckgo/gatsby-remark-highlight-code/issues/61) in [deckgo/gatsby-remark-highlight-code](https://github.com/deckgo/gatsby-remark-highlight-code)
-3. 💪 Opened PR [#63](https://github.com/deckgo/gatsby-remark-highlight-code/pull/63) in [deckgo/gatsby-remark-highlight-code](https://github.com/deckgo/gatsby-remark-highlight-code)
-4. 🗣 Commented on [#61](https://github.com/deckgo/gatsby-remark-highlight-code/issues/61) in [deckgo/gatsby-remark-highlight-code](https://github.com/deckgo/gatsby-remark-highlight-code)
-5. ❗️ Closed issue [#113](https://github.com/mdn/workflows/issues/113) in [mdn/workflows](https://github.com/mdn/workflows)
+3. 🗣 Commented on [#61](https://github.com/deckgo/gatsby-remark-highlight-code/issues/61) in [deckgo/gatsby-remark-highlight-code](https://github.com/deckgo/gatsby-remark-highlight-code)
+4. 💪 Opened PR [#63](https://github.com/deckgo/gatsby-remark-highlight-code/pull/63) in [deckgo/gatsby-remark-highlight-code](https://github.com/deckgo/gatsby-remark-highlight-code)
+5. 🗣 Commented on [#61](https://github.com/deckgo/gatsby-remark-highlight-code/issues/61) in [deckgo/gatsby-remark-highlight-code](https://github.com/deckgo/gatsby-remark-highlight-code)
 <!--END_SECTION:activity-->
 
 ### My Current Interests
