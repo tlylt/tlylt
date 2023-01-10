@@ -3,11 +3,11 @@
 ### Recent Activities
 
 <!--START_SECTION:activity-->
-1. ❗️ Opened issue [#1](https://github.com/nus-cs3281/2023/issues/1) in [nus-cs3281/2023](https://github.com/nus-cs3281/2023)
-2. 🗣 Commented on [#12484](https://github.com/mdn/content/issues/12484) in [mdn/content](https://github.com/mdn/content)
-3. 🗣 Commented on [#295](https://github.com/foambubble/foam/issues/295) in [foambubble/foam](https://github.com/foambubble/foam)
-4. 🗣 Commented on [#61](https://github.com/deckgo/gatsby-remark-highlight-code/issues/61) in [deckgo/gatsby-remark-highlight-code](https://github.com/deckgo/gatsby-remark-highlight-code)
-5. 🗣 Commented on [#61](https://github.com/deckgo/gatsby-remark-highlight-code/issues/61) in [deckgo/gatsby-remark-highlight-code](https://github.com/deckgo/gatsby-remark-highlight-code)
+1. 💪 Opened PR [#23513](https://github.com/mdn/content/pull/23513) in [mdn/content](https://github.com/mdn/content)
+2. 💪 Opened PR [#23509](https://github.com/mdn/content/pull/23509) in [mdn/content](https://github.com/mdn/content)
+3. ❗️ Opened issue [#1](https://github.com/nus-cs3281/2023/issues/1) in [nus-cs3281/2023](https://github.com/nus-cs3281/2023)
+4. 🗣 Commented on [#12484](https://github.com/mdn/content/issues/12484) in [mdn/content](https://github.com/mdn/content)
+5. 🗣 Commented on [#295](https://github.com/foambubble/foam/issues/295) in [foambubble/foam](https://github.com/foambubble/foam)
 <!--END_SECTION:activity-->
 
 ### My Current Interests
