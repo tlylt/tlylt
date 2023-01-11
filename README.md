@@ -3,11 +3,11 @@
 ### Recent Activities
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#23513](https://github.com/mdn/content/pull/23513) in [mdn/content](https://github.com/mdn/content)
-2. 💪 Opened PR [#23509](https://github.com/mdn/content/pull/23509) in [mdn/content](https://github.com/mdn/content)
-3. ❗️ Opened issue [#1](https://github.com/nus-cs3281/2023/issues/1) in [nus-cs3281/2023](https://github.com/nus-cs3281/2023)
-4. 🗣 Commented on [#12484](https://github.com/mdn/content/issues/12484) in [mdn/content](https://github.com/mdn/content)
-5. 🗣 Commented on [#295](https://github.com/foambubble/foam/issues/295) in [foambubble/foam](https://github.com/foambubble/foam)
+1. 💪 Opened PR [#1138](https://github.com/foambubble/foam/pull/1138) in [foambubble/foam](https://github.com/foambubble/foam)
+2. 💪 Opened PR [#1137](https://github.com/foambubble/foam/pull/1137) in [foambubble/foam](https://github.com/foambubble/foam)
+3. 🗣 Commented on [#2053](https://github.com/MarkBind/markbind/issues/2053) in [MarkBind/markbind](https://github.com/MarkBind/markbind)
+4. ❗️ Opened issue [#2067](https://github.com/MarkBind/markbind/issues/2067) in [MarkBind/markbind](https://github.com/MarkBind/markbind)
+5. 🗣 Commented on [#1771](https://github.com/reposense/RepoSense/issues/1771) in [reposense/RepoSense](https://github.com/reposense/RepoSense)
 <!--END_SECTION:activity-->
 
 ### My Current Interests
