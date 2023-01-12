@@ -57,11 +57,11 @@
 <summary> <b>📕 Latest Blog Posts</b> </summary>
 
 <!-- BLOG-POST-LIST:START -->
+- [Creating a regex-based Markdown parser in TypeScript](https://www.yongliangliu.com/blog/rmark/)
 - [Create VSCode Snippets for Markdown Blog Workflows](https://www.yongliangliu.com/blog/vscode-snippets/)
 - [My Journey into Open Source](https://www.yongliangliu.com/blog/my-journey-into-open-source/)
 - [Resources for Orbital CP2106 Independent Software Development Project](https://www.yongliangliu.com/blog/orbital-prep/)
 - [A Brief Description of Ransomware Attacks](https://www.yongliangliu.com/blog/ransomware-essay/)
-- [End of University Year 3 Sem 1](https://www.yongliangliu.com/blog/end-of-year-3-sem-1/)
 <!-- BLOG-POST-LIST:END -->
 
 </details>
