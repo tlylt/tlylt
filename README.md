@@ -3,11 +3,11 @@
 ### Recent Activities
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#3888](https://github.com/dendronhq/dendron/issues/3888) in [dendronhq/dendron](https://github.com/dendronhq/dendron)
-2. 🗣 Commented on [#8777](https://github.com/remix-run/react-router/issues/8777) in [remix-run/react-router](https://github.com/remix-run/react-router)
-3. 💪 Opened PR [#1138](https://github.com/foambubble/foam/pull/1138) in [foambubble/foam](https://github.com/foambubble/foam)
-4. 💪 Opened PR [#1137](https://github.com/foambubble/foam/pull/1137) in [foambubble/foam](https://github.com/foambubble/foam)
-5. 🗣 Commented on [#2053](https://github.com/MarkBind/markbind/issues/2053) in [MarkBind/markbind](https://github.com/MarkBind/markbind)
+1. 🗣 Commented on [#1771](https://github.com/reposense/RepoSense/issues/1771) in [reposense/RepoSense](https://github.com/reposense/RepoSense)
+2. 💪 Opened PR [#2069](https://github.com/MarkBind/markbind/pull/2069) in [MarkBind/markbind](https://github.com/MarkBind/markbind)
+3. 🗣 Commented on [#3888](https://github.com/dendronhq/dendron/issues/3888) in [dendronhq/dendron](https://github.com/dendronhq/dendron)
+4. 🗣 Commented on [#8777](https://github.com/remix-run/react-router/issues/8777) in [remix-run/react-router](https://github.com/remix-run/react-router)
+5. 💪 Opened PR [#1138](https://github.com/foambubble/foam/pull/1138) in [foambubble/foam](https://github.com/foambubble/foam)
 <!--END_SECTION:activity-->
 
 ### My Current Interests
