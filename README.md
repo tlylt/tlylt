@@ -3,11 +3,11 @@
 ### Recent Activities
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#2080](https://github.com/MarkBind/markbind/issues/2080) in [MarkBind/markbind](https://github.com/MarkBind/markbind)
-2. ❗️ Opened issue [#2073](https://github.com/MarkBind/markbind/issues/2073) in [MarkBind/markbind](https://github.com/MarkBind/markbind)
-3. ❗️ Opened issue [#2072](https://github.com/MarkBind/markbind/issues/2072) in [MarkBind/markbind](https://github.com/MarkBind/markbind)
-4. 🗣 Commented on [#7450](https://github.com/mdn/yari/issues/7450) in [mdn/yari](https://github.com/mdn/yari)
-5. 💪 Opened PR [#1858](https://github.com/reposense/RepoSense/pull/1858) in [reposense/RepoSense](https://github.com/reposense/RepoSense)
+1. 🗣 Commented on [#2077](https://github.com/MarkBind/markbind/issues/2077) in [MarkBind/markbind](https://github.com/MarkBind/markbind)
+2. 🗣 Commented on [#2080](https://github.com/MarkBind/markbind/issues/2080) in [MarkBind/markbind](https://github.com/MarkBind/markbind)
+3. ❗️ Opened issue [#2073](https://github.com/MarkBind/markbind/issues/2073) in [MarkBind/markbind](https://github.com/MarkBind/markbind)
+4. ❗️ Opened issue [#2072](https://github.com/MarkBind/markbind/issues/2072) in [MarkBind/markbind](https://github.com/MarkBind/markbind)
+5. 🗣 Commented on [#7450](https://github.com/mdn/yari/issues/7450) in [mdn/yari](https://github.com/mdn/yari)
 <!--END_SECTION:activity-->
 
 ### My Current Interests
