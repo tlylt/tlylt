@@ -3,11 +3,11 @@
 ### Recent Activities
 
 <!--START_SECTION:activity-->
-1. ❗️ Opened issue [#23711](https://github.com/mdn/content/issues/23711) in [mdn/content](https://github.com/mdn/content)
-2. ❗️ Closed issue [#18664](https://github.com/mdn/browser-compat-data/issues/18664) in [mdn/browser-compat-data](https://github.com/mdn/browser-compat-data)
-3. 🗣 Commented on [#18664](https://github.com/mdn/browser-compat-data/issues/18664) in [mdn/browser-compat-data](https://github.com/mdn/browser-compat-data)
-4. ❗️ Opened issue [#18664](https://github.com/mdn/browser-compat-data/issues/18664) in [mdn/browser-compat-data](https://github.com/mdn/browser-compat-data)
-5. 💪 Opened PR [#23695](https://github.com/mdn/content/pull/23695) in [mdn/content](https://github.com/mdn/content)
+1. 💪 Opened PR [#23716](https://github.com/mdn/content/pull/23716) in [mdn/content](https://github.com/mdn/content)
+2. 🗣 Commented on [#16136](https://github.com/mdn/content/issues/16136) in [mdn/content](https://github.com/mdn/content)
+3. 💪 Opened PR [#23715](https://github.com/mdn/content/pull/23715) in [mdn/content](https://github.com/mdn/content)
+4. 🗣 Commented on [#7116](https://github.com/whatwg/html/issues/7116) in [whatwg/html](https://github.com/whatwg/html)
+5. 🗣 Commented on [#1858](https://github.com/reposense/RepoSense/issues/1858) in [reposense/RepoSense](https://github.com/reposense/RepoSense)
 <!--END_SECTION:activity-->
 
 ### My Current Interests
