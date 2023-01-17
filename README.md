@@ -3,11 +3,11 @@
 ### Recent Activities
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#2069](https://github.com/MarkBind/markbind/issues/2069) in [MarkBind/markbind](https://github.com/MarkBind/markbind)
-2. 🗣 Commented on [#2077](https://github.com/MarkBind/markbind/issues/2077) in [MarkBind/markbind](https://github.com/MarkBind/markbind)
-3. 🗣 Commented on [#2080](https://github.com/MarkBind/markbind/issues/2080) in [MarkBind/markbind](https://github.com/MarkBind/markbind)
-4. ❗️ Opened issue [#2073](https://github.com/MarkBind/markbind/issues/2073) in [MarkBind/markbind](https://github.com/MarkBind/markbind)
-5. ❗️ Opened issue [#2072](https://github.com/MarkBind/markbind/issues/2072) in [MarkBind/markbind](https://github.com/MarkBind/markbind)
+1. ❗️ Opened issue [#23711](https://github.com/mdn/content/issues/23711) in [mdn/content](https://github.com/mdn/content)
+2. ❗️ Closed issue [#18664](https://github.com/mdn/browser-compat-data/issues/18664) in [mdn/browser-compat-data](https://github.com/mdn/browser-compat-data)
+3. 🗣 Commented on [#18664](https://github.com/mdn/browser-compat-data/issues/18664) in [mdn/browser-compat-data](https://github.com/mdn/browser-compat-data)
+4. ❗️ Opened issue [#18664](https://github.com/mdn/browser-compat-data/issues/18664) in [mdn/browser-compat-data](https://github.com/mdn/browser-compat-data)
+5. 💪 Opened PR [#23695](https://github.com/mdn/content/pull/23695) in [mdn/content](https://github.com/mdn/content)
 <!--END_SECTION:activity-->
 
 ### My Current Interests
