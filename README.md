@@ -3,10 +3,10 @@
 ### Recent Activities
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#2101](https://github.com/MarkBind/markbind/issues/2101) in [MarkBind/markbind](https://github.com/MarkBind/markbind)
+1. ❗️ Opened issue [#14](https://github.com/nus-cs3281/2023/issues/14) in [nus-cs3281/2023](https://github.com/nus-cs3281/2023)
 2. 🗣 Commented on [#2101](https://github.com/MarkBind/markbind/issues/2101) in [MarkBind/markbind](https://github.com/MarkBind/markbind)
-3. 💪 Opened PR [#23750](https://github.com/mdn/content/pull/23750) in [mdn/content](https://github.com/mdn/content)
-4. 🗣 Commented on [#10406](https://github.com/mdn/content/issues/10406) in [mdn/content](https://github.com/mdn/content)
+3. 🗣 Commented on [#2101](https://github.com/MarkBind/markbind/issues/2101) in [MarkBind/markbind](https://github.com/MarkBind/markbind)
+4. 💪 Opened PR [#23750](https://github.com/mdn/content/pull/23750) in [mdn/content](https://github.com/mdn/content)
 5. 🗣 Commented on [#1810](https://github.com/MarkBind/markbind/issues/1810) in [MarkBind/markbind](https://github.com/MarkBind/markbind)
 <!--END_SECTION:activity-->
 
