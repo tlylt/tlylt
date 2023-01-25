@@ -10,13 +10,6 @@
 5. 🗣 Commented on [#2043](https://github.com/MarkBind/markbind/issues/2043) in [MarkBind/markbind](https://github.com/MarkBind/markbind)
 <!--END_SECTION:activity-->
 
-### My Current Interests
-
-- Conversational Agent
-- Testing
-- DevOps
-- Blockchain
-
 ## GitHub Statistics :chart_with_upwards_trend:
 <div align="center">
 <div style="display: flex; align-items: center; justify-content: center;">
