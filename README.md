@@ -29,7 +29,7 @@
 ## Connect With Me <img src="https://media.giphy.com/media/2wh5K5yE3ulp3xgYcG/giphy-downsized.gif" width="30">
 
 <a href="https://www.yongliangliu.com/" target="_blank"><img align="center" src="static/site-icon.png" alt="yongliangliu.com" height="29" width="29" /></a>
-<a href="https://dev.to/tlylt" target="_blank"><img align="center" src="static/dev-badge.svg" alt="dev.to/tlylt" height="35" width="35" style="padding: 0 2px 0 5px;"/></a>
+<a href="https://dev.to/tlylt" target="_blank"><img align="center" src="static/dev-badge.svg" alt="dev.to/tlylt" height="35" width="35" /></a>
 <a href="https://tlylt.medium.com" target="_blank"><img align="center" src="static/medium.png" alt="tlylt.medium.com" height="35" width="35" /></a>
 
 ## Activities <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
