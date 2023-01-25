@@ -3,11 +3,11 @@
 ### Recent Activities
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#1](https://github.com/MarkBind/init-typical-netlify/pull/1) in [MarkBind/init-typical-netlify](https://github.com/MarkBind/init-typical-netlify)
-2. 🎉 Merged PR [#1](https://github.com/MarkBind/init-typical/pull/1) in [MarkBind/init-typical](https://github.com/MarkBind/init-typical)
-3. 🎉 Merged PR [#2108](https://github.com/MarkBind/markbind/pull/2108) in [MarkBind/markbind](https://github.com/MarkBind/markbind)
-4. 🗣 Commented on [#2053](https://github.com/MarkBind/markbind/issues/2053) in [MarkBind/markbind](https://github.com/MarkBind/markbind)
-5. 🎉 Merged PR [#2107](https://github.com/MarkBind/markbind/pull/2107) in [MarkBind/markbind](https://github.com/MarkBind/markbind)
+1. 🗣 Commented on [#2043](https://github.com/MarkBind/markbind/issues/2043) in [MarkBind/markbind](https://github.com/MarkBind/markbind)
+2. 💪 Opened PR [#2](https://github.com/MarkBind/init-typical-netlify/pull/2) in [MarkBind/init-typical-netlify](https://github.com/MarkBind/init-typical-netlify)
+3. 🎉 Merged PR [#1](https://github.com/MarkBind/init-typical-netlify/pull/1) in [MarkBind/init-typical-netlify](https://github.com/MarkBind/init-typical-netlify)
+4. 🎉 Merged PR [#1](https://github.com/MarkBind/init-typical/pull/1) in [MarkBind/init-typical](https://github.com/MarkBind/init-typical)
+5. 🎉 Merged PR [#2108](https://github.com/MarkBind/markbind/pull/2108) in [MarkBind/markbind](https://github.com/MarkBind/markbind)
 <!--END_SECTION:activity-->
 
 ### My Current Interests
