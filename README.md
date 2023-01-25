@@ -3,11 +3,11 @@
 ### Recent Activities
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#2043](https://github.com/MarkBind/markbind/issues/2043) in [MarkBind/markbind](https://github.com/MarkBind/markbind)
-2. 💪 Opened PR [#2](https://github.com/MarkBind/init-typical-netlify/pull/2) in [MarkBind/init-typical-netlify](https://github.com/MarkBind/init-typical-netlify)
-3. 🎉 Merged PR [#1](https://github.com/MarkBind/init-typical-netlify/pull/1) in [MarkBind/init-typical-netlify](https://github.com/MarkBind/init-typical-netlify)
-4. 🎉 Merged PR [#1](https://github.com/MarkBind/init-typical/pull/1) in [MarkBind/init-typical](https://github.com/MarkBind/init-typical)
-5. 🎉 Merged PR [#2108](https://github.com/MarkBind/markbind/pull/2108) in [MarkBind/markbind](https://github.com/MarkBind/markbind)
+1. 🗣 Commented on [#8042](https://github.com/mdn/yari/issues/8042) in [mdn/yari](https://github.com/mdn/yari)
+2. 🗣 Commented on [#2069](https://github.com/MarkBind/markbind/issues/2069) in [MarkBind/markbind](https://github.com/MarkBind/markbind)
+3. 🗣 Commented on [#8042](https://github.com/mdn/yari/issues/8042) in [mdn/yari](https://github.com/mdn/yari)
+4. 🗣 Commented on [#23784](https://github.com/mdn/content/issues/23784) in [mdn/content](https://github.com/mdn/content)
+5. 🗣 Commented on [#2043](https://github.com/MarkBind/markbind/issues/2043) in [MarkBind/markbind](https://github.com/MarkBind/markbind)
 <!--END_SECTION:activity-->
 
 ### My Current Interests
