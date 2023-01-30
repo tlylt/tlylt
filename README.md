@@ -3,11 +3,11 @@
 ### Recent Activities
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#581](https://github.com/cheeriojs/cheerio/issues/581) in [cheeriojs/cheerio](https://github.com/cheeriojs/cheerio)
-2. 🗣 Commented on [#2115](https://github.com/MarkBind/markbind/issues/2115) in [MarkBind/markbind](https://github.com/MarkBind/markbind)
-3. 💪 Opened PR [#370](https://github.com/livebud/bud/pull/370) in [livebud/bud](https://github.com/livebud/bud)
-4. 🗣 Commented on [#2112](https://github.com/MarkBind/markbind/issues/2112) in [MarkBind/markbind](https://github.com/MarkBind/markbind)
-5. 🗣 Commented on [#955](https://github.com/immerjs/immer/issues/955) in [immerjs/immer](https://github.com/immerjs/immer)
+1. 🗣 Commented on [#6](https://github.com/reposense/reposense-action/issues/6) in [reposense/reposense-action](https://github.com/reposense/reposense-action)
+2. 🗣 Commented on [#12347](https://github.com/mdn/content/issues/12347) in [mdn/content](https://github.com/mdn/content)
+3. 🗣 Commented on [#581](https://github.com/cheeriojs/cheerio/issues/581) in [cheeriojs/cheerio](https://github.com/cheeriojs/cheerio)
+4. 🗣 Commented on [#2115](https://github.com/MarkBind/markbind/issues/2115) in [MarkBind/markbind](https://github.com/MarkBind/markbind)
+5. 💪 Opened PR [#370](https://github.com/livebud/bud/pull/370) in [livebud/bud](https://github.com/livebud/bud)
 <!--END_SECTION:activity-->
 
 ## GitHub Statistics :chart_with_upwards_trend:
