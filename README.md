@@ -3,11 +3,11 @@
 ### Recent Activities
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#6](https://github.com/reposense/reposense-action/issues/6) in [reposense/reposense-action](https://github.com/reposense/reposense-action)
-2. 🗣 Commented on [#12347](https://github.com/mdn/content/issues/12347) in [mdn/content](https://github.com/mdn/content)
-3. 🗣 Commented on [#581](https://github.com/cheeriojs/cheerio/issues/581) in [cheeriojs/cheerio](https://github.com/cheeriojs/cheerio)
-4. 🗣 Commented on [#2115](https://github.com/MarkBind/markbind/issues/2115) in [MarkBind/markbind](https://github.com/MarkBind/markbind)
-5. 💪 Opened PR [#370](https://github.com/livebud/bud/pull/370) in [livebud/bud](https://github.com/livebud/bud)
+1. 💪 Opened PR [#23990](https://github.com/mdn/content/pull/23990) in [mdn/content](https://github.com/mdn/content)
+2. 💪 Opened PR [#23989](https://github.com/mdn/content/pull/23989) in [mdn/content](https://github.com/mdn/content)
+3. 💪 Opened PR [#2123](https://github.com/MarkBind/markbind/pull/2123) in [MarkBind/markbind](https://github.com/MarkBind/markbind)
+4. 🗣 Commented on [#6](https://github.com/reposense/reposense-action/issues/6) in [reposense/reposense-action](https://github.com/reposense/reposense-action)
+5. 🗣 Commented on [#12347](https://github.com/mdn/content/issues/12347) in [mdn/content](https://github.com/mdn/content)
 <!--END_SECTION:activity-->
 
 ## GitHub Statistics :chart_with_upwards_trend:
