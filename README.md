@@ -3,11 +3,11 @@
 ### Recent Activities
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#23711](https://github.com/mdn/content/issues/23711) in [mdn/content](https://github.com/mdn/content)
-2. 💪 Opened PR [#23990](https://github.com/mdn/content/pull/23990) in [mdn/content](https://github.com/mdn/content)
-3. 💪 Opened PR [#23989](https://github.com/mdn/content/pull/23989) in [mdn/content](https://github.com/mdn/content)
-4. 💪 Opened PR [#2123](https://github.com/MarkBind/markbind/pull/2123) in [MarkBind/markbind](https://github.com/MarkBind/markbind)
-5. 🗣 Commented on [#6](https://github.com/reposense/reposense-action/issues/6) in [reposense/reposense-action](https://github.com/reposense/reposense-action)
+1. 🎉 Merged PR [#2123](https://github.com/MarkBind/markbind/pull/2123) in [MarkBind/markbind](https://github.com/MarkBind/markbind)
+2. 🗣 Commented on [#8049](https://github.com/mdn/yari/issues/8049) in [mdn/yari](https://github.com/mdn/yari)
+3. 🗣 Commented on [#14484](https://github.com/mdn/content/issues/14484) in [mdn/content](https://github.com/mdn/content)
+4. 🗣 Commented on [#23711](https://github.com/mdn/content/issues/23711) in [mdn/content](https://github.com/mdn/content)
+5. 💪 Opened PR [#23990](https://github.com/mdn/content/pull/23990) in [mdn/content](https://github.com/mdn/content)
 <!--END_SECTION:activity-->
 
 ## GitHub Statistics :chart_with_upwards_trend:
