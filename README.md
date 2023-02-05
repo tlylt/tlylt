@@ -3,11 +3,11 @@
 ### Recent Activities
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#15](https://github.com/nus-cs3281/2023/issues/15) in [nus-cs3281/2023](https://github.com/nus-cs3281/2023)
-2. 🗣 Commented on [#2129](https://github.com/MarkBind/markbind/issues/2129) in [MarkBind/markbind](https://github.com/MarkBind/markbind)
-3. 🗣 Commented on [#12347](https://github.com/mdn/content/issues/12347) in [mdn/content](https://github.com/mdn/content)
-4. 💪 Opened PR [#24133](https://github.com/mdn/content/pull/24133) in [mdn/content](https://github.com/mdn/content)
-5. 💪 Opened PR [#24131](https://github.com/mdn/content/pull/24131) in [mdn/content](https://github.com/mdn/content)
+1. 🗣 Commented on [#2](https://github.com/MarkBind/init-typical-netlify/issues/2) in [MarkBind/init-typical-netlify](https://github.com/MarkBind/init-typical-netlify)
+2. 🗣 Commented on [#1953](https://github.com/MarkBind/markbind/issues/1953) in [MarkBind/markbind](https://github.com/MarkBind/markbind)
+3. 🗣 Commented on [#1965](https://github.com/MarkBind/markbind/issues/1965) in [MarkBind/markbind](https://github.com/MarkBind/markbind)
+4. 🗣 Commented on [#15](https://github.com/nus-cs3281/2023/issues/15) in [nus-cs3281/2023](https://github.com/nus-cs3281/2023)
+5. 🗣 Commented on [#2129](https://github.com/MarkBind/markbind/issues/2129) in [MarkBind/markbind](https://github.com/MarkBind/markbind)
 <!--END_SECTION:activity-->
 
 ## GitHub Statistics :chart_with_upwards_trend:
