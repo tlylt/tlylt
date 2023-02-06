@@ -3,11 +3,11 @@
 ### Recent Activities
 
 <!--START_SECTION:activity-->
-1. ❗️ Closed issue [#1967](https://github.com/MarkBind/markbind/issues/1967) in [MarkBind/markbind](https://github.com/MarkBind/markbind)
-2. 🗣 Commented on [#2127](https://github.com/MarkBind/markbind/issues/2127) in [MarkBind/markbind](https://github.com/MarkBind/markbind)
-3. 💪 Opened PR [#24176](https://github.com/mdn/content/pull/24176) in [mdn/content](https://github.com/mdn/content)
-4. 🗣 Commented on [#2](https://github.com/MarkBind/init-typical-netlify/issues/2) in [MarkBind/init-typical-netlify](https://github.com/MarkBind/init-typical-netlify)
-5. 🗣 Commented on [#1953](https://github.com/MarkBind/markbind/issues/1953) in [MarkBind/markbind](https://github.com/MarkBind/markbind)
+1. 🗣 Commented on [#8135](https://github.com/mdn/yari/issues/8135) in [mdn/yari](https://github.com/mdn/yari)
+2. 🗣 Commented on [#6275](https://github.com/mdn/yari/issues/6275) in [mdn/yari](https://github.com/mdn/yari)
+3. ❗️ Opened issue [#8135](https://github.com/mdn/yari/issues/8135) in [mdn/yari](https://github.com/mdn/yari)
+4. 🗣 Commented on [#51](https://github.com/mdn/yari/issues/51) in [mdn/yari](https://github.com/mdn/yari)
+5. 🎉 Merged PR [#2](https://github.com/MarkBind/init-minimal-netlify/pull/2) in [MarkBind/init-minimal-netlify](https://github.com/MarkBind/init-minimal-netlify)
 <!--END_SECTION:activity-->
 
 ## GitHub Statistics :chart_with_upwards_trend:
