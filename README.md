@@ -3,11 +3,11 @@
 ### Recent Activities
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#8135](https://github.com/mdn/yari/issues/8135) in [mdn/yari](https://github.com/mdn/yari)
-2. 🗣 Commented on [#6275](https://github.com/mdn/yari/issues/6275) in [mdn/yari](https://github.com/mdn/yari)
-3. ❗️ Opened issue [#8135](https://github.com/mdn/yari/issues/8135) in [mdn/yari](https://github.com/mdn/yari)
-4. 🗣 Commented on [#51](https://github.com/mdn/yari/issues/51) in [mdn/yari](https://github.com/mdn/yari)
-5. 🎉 Merged PR [#2](https://github.com/MarkBind/init-minimal-netlify/pull/2) in [MarkBind/init-minimal-netlify](https://github.com/MarkBind/init-minimal-netlify)
+1. 🗣 Commented on [#2118](https://github.com/MarkBind/markbind/issues/2118) in [MarkBind/markbind](https://github.com/MarkBind/markbind)
+2. ❗️ Closed issue [#1835](https://github.com/MarkBind/markbind/issues/1835) in [MarkBind/markbind](https://github.com/MarkBind/markbind)
+3. 🎉 Merged PR [#2118](https://github.com/MarkBind/markbind/pull/2118) in [MarkBind/markbind](https://github.com/MarkBind/markbind)
+4. ❗️ Closed issue [#2087](https://github.com/MarkBind/markbind/issues/2087) in [MarkBind/markbind](https://github.com/MarkBind/markbind)
+5. 🎉 Merged PR [#2122](https://github.com/MarkBind/markbind/pull/2122) in [MarkBind/markbind](https://github.com/MarkBind/markbind)
 <!--END_SECTION:activity-->
 
 ## GitHub Statistics :chart_with_upwards_trend:
