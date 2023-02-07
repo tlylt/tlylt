@@ -52,9 +52,9 @@
 <!-- BLOG-POST-LIST:START -->
 - [Creating a regex-based Markdown parser in TypeScript](https://www.yongliangliu.com/blog/rmark/)
 - [Create VSCode Snippets for Markdown Blog Workflows](https://www.yongliangliu.com/blog/vscode-snippets/)
+- [Brag Doc 2023](https://www.yongliangliu.com/blog/brag-doc-2023/)
 - [My Journey into Open Source](https://www.yongliangliu.com/blog/my-journey-into-open-source/)
 - [Resources for Orbital CP2106 Independent Software Development Project](https://www.yongliangliu.com/blog/orbital-prep/)
-- [A Brief Description of Ransomware Attacks](https://www.yongliangliu.com/blog/ransomware-essay/)
 <!-- BLOG-POST-LIST:END -->
 
 </details>
