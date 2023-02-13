@@ -3,11 +3,11 @@
 ### Recent Activities
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#1965](https://github.com/MarkBind/markbind/issues/1965) in [MarkBind/markbind](https://github.com/MarkBind/markbind)
-2. 🗣 Commented on [#1965](https://github.com/MarkBind/markbind/issues/1965) in [MarkBind/markbind](https://github.com/MarkBind/markbind)
-3. 🗣 Commented on [#2038](https://github.com/MarkBind/markbind/issues/2038) in [MarkBind/markbind](https://github.com/MarkBind/markbind)
-4. 🗣 Commented on [#2059](https://github.com/MarkBind/markbind/issues/2059) in [MarkBind/markbind](https://github.com/MarkBind/markbind)
-5. 🎉 Merged PR [#2138](https://github.com/MarkBind/markbind/pull/2138) in [MarkBind/markbind](https://github.com/MarkBind/markbind)
+1. 🗣 Commented on [#22](https://github.com/CATcher-org/catcher-org.github.io/issues/22) in [CATcher-org/catcher-org.github.io](https://github.com/CATcher-org/catcher-org.github.io)
+2. 🗣 Commented on [#2137](https://github.com/MarkBind/markbind/issues/2137) in [MarkBind/markbind](https://github.com/MarkBind/markbind)
+3. 🗣 Commented on [#2052](https://github.com/MarkBind/markbind/issues/2052) in [MarkBind/markbind](https://github.com/MarkBind/markbind)
+4. ❌ Closed PR [#1079](https://github.com/MarkBind/markbind/pull/1079) in [MarkBind/markbind](https://github.com/MarkBind/markbind)
+5. 🗣 Commented on [#1079](https://github.com/MarkBind/markbind/issues/1079) in [MarkBind/markbind](https://github.com/MarkBind/markbind)
 <!--END_SECTION:activity-->
 
 ## GitHub Statistics :chart_with_upwards_trend:
