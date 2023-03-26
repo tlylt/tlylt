@@ -3,11 +3,11 @@
 ### Recent Activities
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#771](https://github.com/MarkBind/markbind/issues/771) in [MarkBind/markbind](https://github.com/MarkBind/markbind)
-2. 🗣 Commented on [#2183](https://github.com/MarkBind/markbind/issues/2183) in [MarkBind/markbind](https://github.com/MarkBind/markbind)
-3. 🗣 Commented on [#2191](https://github.com/MarkBind/markbind/issues/2191) in [MarkBind/markbind](https://github.com/MarkBind/markbind)
-4. 🗣 Commented on [#2183](https://github.com/MarkBind/markbind/issues/2183) in [MarkBind/markbind](https://github.com/MarkBind/markbind)
-5. 🗣 Commented on [#34](https://github.com/nus-cs3281/2023/issues/34) in [nus-cs3281/2023](https://github.com/nus-cs3281/2023)
+1. 🗣 Commented on [#156](https://github.com/se-edu/addressbook-level3/issues/156) in [se-edu/addressbook-level3](https://github.com/se-edu/addressbook-level3)
+2. 🗣 Commented on [#5](https://github.com/reposense/reposense-action/issues/5) in [reposense/reposense-action](https://github.com/reposense/reposense-action)
+3. 🗣 Commented on [#1715](https://github.com/MarkBind/markbind/issues/1715) in [MarkBind/markbind](https://github.com/MarkBind/markbind)
+4. 🗣 Commented on [#2164](https://github.com/MarkBind/markbind/issues/2164) in [MarkBind/markbind](https://github.com/MarkBind/markbind)
+5. ❗️ Opened issue [#2236](https://github.com/MarkBind/markbind/issues/2236) in [MarkBind/markbind](https://github.com/MarkBind/markbind)
 <!--END_SECTION:activity-->
 
 ## GitHub Statistics :chart_with_upwards_trend:
