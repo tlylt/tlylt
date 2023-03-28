@@ -3,11 +3,11 @@
 ### Recent Activities
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#2202](https://github.com/MarkBind/markbind/issues/2202) in [MarkBind/markbind](https://github.com/MarkBind/markbind)
-2. 🗣 Commented on [#156](https://github.com/se-edu/addressbook-level3/issues/156) in [se-edu/addressbook-level3](https://github.com/se-edu/addressbook-level3)
-3. 🗣 Commented on [#5](https://github.com/reposense/reposense-action/issues/5) in [reposense/reposense-action](https://github.com/reposense/reposense-action)
-4. 🗣 Commented on [#1715](https://github.com/MarkBind/markbind/issues/1715) in [MarkBind/markbind](https://github.com/MarkBind/markbind)
-5. 🗣 Commented on [#2164](https://github.com/MarkBind/markbind/issues/2164) in [MarkBind/markbind](https://github.com/MarkBind/markbind)
+1. 🎉 Merged PR [#8](https://github.com/MarkBind/markbind-action/pull/8) in [MarkBind/markbind-action](https://github.com/MarkBind/markbind-action)
+2. 🎉 Merged PR [#3](https://github.com/MarkBind/init-minimal-netlify/pull/3) in [MarkBind/init-minimal-netlify](https://github.com/MarkBind/init-minimal-netlify)
+3. 🎉 Merged PR [#3](https://github.com/MarkBind/init-typical-netlify/pull/3) in [MarkBind/init-typical-netlify](https://github.com/MarkBind/init-typical-netlify)
+4. 🎉 Merged PR [#2244](https://github.com/MarkBind/markbind/pull/2244) in [MarkBind/markbind](https://github.com/MarkBind/markbind)
+5. 🗣 Commented on [#2244](https://github.com/MarkBind/markbind/issues/2244) in [MarkBind/markbind](https://github.com/MarkBind/markbind)
 <!--END_SECTION:activity-->
 
 ## GitHub Statistics :chart_with_upwards_trend:
