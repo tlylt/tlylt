@@ -3,11 +3,11 @@
 ### Recent Activities
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#45](https://github.com/goto-bus-stop/keyv-firestore/issues/45) in [goto-bus-stop/keyv-firestore](https://github.com/goto-bus-stop/keyv-firestore)
-2. 🎉 Merged PR [#8](https://github.com/MarkBind/markbind-action/pull/8) in [MarkBind/markbind-action](https://github.com/MarkBind/markbind-action)
-3. 🎉 Merged PR [#3](https://github.com/MarkBind/init-minimal-netlify/pull/3) in [MarkBind/init-minimal-netlify](https://github.com/MarkBind/init-minimal-netlify)
-4. 🎉 Merged PR [#3](https://github.com/MarkBind/init-typical-netlify/pull/3) in [MarkBind/init-typical-netlify](https://github.com/MarkBind/init-typical-netlify)
-5. 🎉 Merged PR [#2244](https://github.com/MarkBind/markbind/pull/2244) in [MarkBind/markbind](https://github.com/MarkBind/markbind)
+1. 🗣 Commented on [#1782](https://github.com/MarkBind/markbind/issues/1782) in [MarkBind/markbind](https://github.com/MarkBind/markbind)
+2. ❗️ Closed issue [#2197](https://github.com/MarkBind/markbind/issues/2197) in [MarkBind/markbind](https://github.com/MarkBind/markbind)
+3. 🎉 Merged PR [#2233](https://github.com/MarkBind/markbind/pull/2233) in [MarkBind/markbind](https://github.com/MarkBind/markbind)
+4. 🗣 Commented on [#45](https://github.com/goto-bus-stop/keyv-firestore/issues/45) in [goto-bus-stop/keyv-firestore](https://github.com/goto-bus-stop/keyv-firestore)
+5. 🎉 Merged PR [#8](https://github.com/MarkBind/markbind-action/pull/8) in [MarkBind/markbind-action](https://github.com/MarkBind/markbind-action)
 <!--END_SECTION:activity-->
 
 ## GitHub Statistics :chart_with_upwards_trend:
