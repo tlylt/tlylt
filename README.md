@@ -3,11 +3,11 @@
 ### Recent Activities
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#2202](https://github.com/MarkBind/markbind/issues/2202) in [MarkBind/markbind](https://github.com/MarkBind/markbind)
-2. 🎉 Merged PR [#2234](https://github.com/MarkBind/markbind/pull/2234) in [MarkBind/markbind](https://github.com/MarkBind/markbind)
-3. 🗣 Commented on [#2225](https://github.com/MarkBind/markbind/issues/2225) in [MarkBind/markbind](https://github.com/MarkBind/markbind)
-4. 🗣 Commented on [#2225](https://github.com/MarkBind/markbind/issues/2225) in [MarkBind/markbind](https://github.com/MarkBind/markbind)
-5. 🗣 Commented on [#1782](https://github.com/MarkBind/markbind/issues/1782) in [MarkBind/markbind](https://github.com/MarkBind/markbind)
+1. 🗣 Commented on [#2130](https://github.com/MarkBind/markbind/issues/2130) in [MarkBind/markbind](https://github.com/MarkBind/markbind)
+2. 💪 Opened PR [#2254](https://github.com/MarkBind/markbind/pull/2254) in [MarkBind/markbind](https://github.com/MarkBind/markbind)
+3. ❌ Closed PR [#2172](https://github.com/MarkBind/markbind/pull/2172) in [MarkBind/markbind](https://github.com/MarkBind/markbind)
+4. 🗣 Commented on [#2172](https://github.com/MarkBind/markbind/issues/2172) in [MarkBind/markbind](https://github.com/MarkBind/markbind)
+5. 🗣 Commented on [#2145](https://github.com/MarkBind/markbind/issues/2145) in [MarkBind/markbind](https://github.com/MarkBind/markbind)
 <!--END_SECTION:activity-->
 
 ## GitHub Statistics :chart_with_upwards_trend:
