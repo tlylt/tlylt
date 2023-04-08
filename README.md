@@ -3,11 +3,11 @@
 ### Recent Activities
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#2259](https://github.com/MarkBind/markbind/issues/2259) in [MarkBind/markbind](https://github.com/MarkBind/markbind)
-2. 🗣 Commented on [#2248](https://github.com/MarkBind/markbind/issues/2248) in [MarkBind/markbind](https://github.com/MarkBind/markbind)
-3. 🗣 Commented on [#2130](https://github.com/MarkBind/markbind/issues/2130) in [MarkBind/markbind](https://github.com/MarkBind/markbind)
+1. 🗣 Commented on [#1060](https://github.com/danger/danger-js/issues/1060) in [danger/danger-js](https://github.com/danger/danger-js)
+2. 🗣 Commented on [#2259](https://github.com/MarkBind/markbind/issues/2259) in [MarkBind/markbind](https://github.com/MarkBind/markbind)
+3. 🗣 Commented on [#2248](https://github.com/MarkBind/markbind/issues/2248) in [MarkBind/markbind](https://github.com/MarkBind/markbind)
 4. 🗣 Commented on [#2130](https://github.com/MarkBind/markbind/issues/2130) in [MarkBind/markbind](https://github.com/MarkBind/markbind)
-5. 🗣 Commented on [#2260](https://github.com/MarkBind/markbind/issues/2260) in [MarkBind/markbind](https://github.com/MarkBind/markbind)
+5. 🗣 Commented on [#2130](https://github.com/MarkBind/markbind/issues/2130) in [MarkBind/markbind](https://github.com/MarkBind/markbind)
 <!--END_SECTION:activity-->
 
 ## GitHub Statistics :chart_with_upwards_trend:
