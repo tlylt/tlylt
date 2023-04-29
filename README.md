@@ -32,7 +32,7 @@
 #### 👷‍♂️✍️ Maintaining & Contributing
 [![MarkBind](https://github-readme-stats-tlylt.vercel.app/api/pin/?username=markbind&repo=markbind)](https://github.com/MarkBind/markbind)
 
-#### ✍️ Contributing
+#### ✍️ (Previously) Contributing
 [![MDN](https://github-readme-stats-tlylt.vercel.app/api/pin/?username=mdn&repo=content)](https://github.com/mdn/content)
 
 <details>
