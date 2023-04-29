@@ -3,11 +3,11 @@
 ### Recent Activities
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#2299](https://github.com/MarkBind/markbind/issues/2299) in [MarkBind/markbind](https://github.com/MarkBind/markbind)
-2. ❗️ Opened issue [#2302](https://github.com/MarkBind/markbind/issues/2302) in [MarkBind/markbind](https://github.com/MarkBind/markbind)
-3. 💪 Opened PR [#2301](https://github.com/MarkBind/markbind/pull/2301) in [MarkBind/markbind](https://github.com/MarkBind/markbind)
-4. 🗣 Commented on [#2283](https://github.com/MarkBind/markbind/issues/2283) in [MarkBind/markbind](https://github.com/MarkBind/markbind)
-5. ❌ Closed PR [#2290](https://github.com/MarkBind/markbind/pull/2290) in [MarkBind/markbind](https://github.com/MarkBind/markbind)
+1. ❗️ Opened issue [#1](https://github.com/tlylt/coded-clique/issues/1) in [tlylt/coded-clique](https://github.com/tlylt/coded-clique)
+2. 🗣 Commented on [#2299](https://github.com/MarkBind/markbind/issues/2299) in [MarkBind/markbind](https://github.com/MarkBind/markbind)
+3. 🗣 Commented on [#2299](https://github.com/MarkBind/markbind/issues/2299) in [MarkBind/markbind](https://github.com/MarkBind/markbind)
+4. ❗️ Opened issue [#2302](https://github.com/MarkBind/markbind/issues/2302) in [MarkBind/markbind](https://github.com/MarkBind/markbind)
+5. 💪 Opened PR [#2301](https://github.com/MarkBind/markbind/pull/2301) in [MarkBind/markbind](https://github.com/MarkBind/markbind)
 <!--END_SECTION:activity-->
 
 ## GitHub Statistics :chart_with_upwards_trend:
