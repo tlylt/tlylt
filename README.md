@@ -3,11 +3,11 @@
 ### Recent Activities
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#1](https://github.com/tlylt/coded-clique/issues/1) in [tlylt/coded-clique](https://github.com/tlylt/coded-clique)
-2. ❗️ Opened issue [#1](https://github.com/tlylt/coded-clique/issues/1) in [tlylt/coded-clique](https://github.com/tlylt/coded-clique)
-3. 🗣 Commented on [#2299](https://github.com/MarkBind/markbind/issues/2299) in [MarkBind/markbind](https://github.com/MarkBind/markbind)
-4. 🗣 Commented on [#2299](https://github.com/MarkBind/markbind/issues/2299) in [MarkBind/markbind](https://github.com/MarkBind/markbind)
-5. ❗️ Opened issue [#2302](https://github.com/MarkBind/markbind/issues/2302) in [MarkBind/markbind](https://github.com/MarkBind/markbind)
+1. ❗️ Opened issue [#4](https://github.com/tlylt/coded-clique/issues/4) in [tlylt/coded-clique](https://github.com/tlylt/coded-clique)
+2. 🗣 Commented on [#3](https://github.com/tlylt/coded-clique/issues/3) in [tlylt/coded-clique](https://github.com/tlylt/coded-clique)
+3. 🗣 Commented on [#3](https://github.com/tlylt/coded-clique/issues/3) in [tlylt/coded-clique](https://github.com/tlylt/coded-clique)
+4. ❗️ Opened issue [#3](https://github.com/tlylt/coded-clique/issues/3) in [tlylt/coded-clique](https://github.com/tlylt/coded-clique)
+5. 🗣 Commented on [#1](https://github.com/tlylt/coded-clique/issues/1) in [tlylt/coded-clique](https://github.com/tlylt/coded-clique)
 <!--END_SECTION:activity-->
 
 ## GitHub Statistics :chart_with_upwards_trend:
