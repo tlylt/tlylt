@@ -33,7 +33,9 @@
 [![MarkBind](https://github-readme-stats-tlylt.vercel.app/api/pin/?username=markbind&repo=markbind)](https://github.com/MarkBind/markbind)
 
 #### ✍️ (Previously) Contributing
-[![MDN](https://github-readme-stats-tlylt.vercel.app/api/pin/?username=mdn&repo=content)](https://github.com/mdn/content)
+[![MDN](https://github-readme-stats-tlylt.vercel.app/api/pin/?username=mdn&repo=content)](https://github.com/mdn/content/issues?q=is%3Aopen+involves%3A%40me+sort%3Aupdated-desc)
+
+[![Dendron](https://github-readme-stats-tlylt.vercel.app/api/pin/?username=dendronhq&repo=dendron)](https://github.com/dendronhq/dendron/issues?q=is%3Aopen+involves%3A%40me+sort%3Aupdated-desc)
 
 <details>
 <summary> <b>🎬 Published GitHub Actions </b> </summary>
