@@ -3,11 +3,11 @@
 ### Recent Activities
 
 <!--START_SECTION:activity-->
-1. ❗️ Opened issue [#4](https://github.com/tlylt/coded-clique/issues/4) in [tlylt/coded-clique](https://github.com/tlylt/coded-clique)
-2. 🗣 Commented on [#3](https://github.com/tlylt/coded-clique/issues/3) in [tlylt/coded-clique](https://github.com/tlylt/coded-clique)
-3. 🗣 Commented on [#3](https://github.com/tlylt/coded-clique/issues/3) in [tlylt/coded-clique](https://github.com/tlylt/coded-clique)
-4. ❗️ Opened issue [#3](https://github.com/tlylt/coded-clique/issues/3) in [tlylt/coded-clique](https://github.com/tlylt/coded-clique)
-5. 🗣 Commented on [#1](https://github.com/tlylt/coded-clique/issues/1) in [tlylt/coded-clique](https://github.com/tlylt/coded-clique)
+1. 🗣 Commented on [#5](https://github.com/tlylt/gh-workflow-example/issues/5) in [tlylt/gh-workflow-example](https://github.com/tlylt/gh-workflow-example)
+2. 🗣 Commented on [#5](https://github.com/tlylt/gh-workflow-example/issues/5) in [tlylt/gh-workflow-example](https://github.com/tlylt/gh-workflow-example)
+3. ❗️ Opened issue [#5](https://github.com/tlylt/gh-workflow-example/issues/5) in [tlylt/gh-workflow-example](https://github.com/tlylt/gh-workflow-example)
+4. 🗣 Commented on [#4](https://github.com/tlylt/coded-clique/issues/4) in [tlylt/coded-clique](https://github.com/tlylt/coded-clique)
+5. ❗️ Opened issue [#4](https://github.com/tlylt/coded-clique/issues/4) in [tlylt/coded-clique](https://github.com/tlylt/coded-clique)
 <!--END_SECTION:activity-->
 
 ## GitHub Statistics :chart_with_upwards_trend:
