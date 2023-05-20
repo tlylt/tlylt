@@ -3,11 +3,11 @@
 ### Recent Activities
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#2](https://github.com/tlylt/coded-clique/issues/2) in [tlylt/coded-clique](https://github.com/tlylt/coded-clique)
+1. 💪 Opened PR [#1](https://github.com/budget-connect/frontend/pull/1) in [budget-connect/frontend](https://github.com/budget-connect/frontend)
 2. 🗣 Commented on [#2](https://github.com/tlylt/coded-clique/issues/2) in [tlylt/coded-clique](https://github.com/tlylt/coded-clique)
 3. 🗣 Commented on [#2](https://github.com/tlylt/coded-clique/issues/2) in [tlylt/coded-clique](https://github.com/tlylt/coded-clique)
-4. 🗣 Commented on [#6](https://github.com/tlylt/gh-workflow-example/issues/6) in [tlylt/gh-workflow-example](https://github.com/tlylt/gh-workflow-example)
-5. ❗️ Opened issue [#6](https://github.com/tlylt/gh-workflow-example/issues/6) in [tlylt/gh-workflow-example](https://github.com/tlylt/gh-workflow-example)
+4. 🗣 Commented on [#2](https://github.com/tlylt/coded-clique/issues/2) in [tlylt/coded-clique](https://github.com/tlylt/coded-clique)
+5. 🗣 Commented on [#6](https://github.com/tlylt/gh-workflow-example/issues/6) in [tlylt/gh-workflow-example](https://github.com/tlylt/gh-workflow-example)
 <!--END_SECTION:activity-->
 
 ## GitHub Statistics :chart_with_upwards_trend:
