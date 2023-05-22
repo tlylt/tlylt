@@ -3,11 +3,11 @@
 ### Recent Activities
 
 <!--START_SECTION:activity-->
-1. ❗️ Closed issue [#2283](https://github.com/MarkBind/markbind/issues/2283) in [MarkBind/markbind](https://github.com/MarkBind/markbind)
-2. 🎉 Merged PR [#2301](https://github.com/MarkBind/markbind/pull/2301) in [MarkBind/markbind](https://github.com/MarkBind/markbind)
-3. 🗣 Commented on [#2299](https://github.com/MarkBind/markbind/issues/2299) in [MarkBind/markbind](https://github.com/MarkBind/markbind)
-4. 💪 Opened PR [#1](https://github.com/budget-connect/frontend/pull/1) in [budget-connect/frontend](https://github.com/budget-connect/frontend)
-5. 🗣 Commented on [#2](https://github.com/tlylt/coded-clique/issues/2) in [tlylt/coded-clique](https://github.com/tlylt/coded-clique)
+1. 🎉 Merged PR [#1](https://github.com/budget-connect/frontend/pull/1) in [budget-connect/frontend](https://github.com/budget-connect/frontend)
+2. ❗️ Closed issue [#2283](https://github.com/MarkBind/markbind/issues/2283) in [MarkBind/markbind](https://github.com/MarkBind/markbind)
+3. 🎉 Merged PR [#2301](https://github.com/MarkBind/markbind/pull/2301) in [MarkBind/markbind](https://github.com/MarkBind/markbind)
+4. 🗣 Commented on [#2299](https://github.com/MarkBind/markbind/issues/2299) in [MarkBind/markbind](https://github.com/MarkBind/markbind)
+5. 💪 Opened PR [#1](https://github.com/budget-connect/frontend/pull/1) in [budget-connect/frontend](https://github.com/budget-connect/frontend)
 <!--END_SECTION:activity-->
 
 ## GitHub Statistics :chart_with_upwards_trend:
