@@ -71,7 +71,7 @@
 
 > 📦 618.3 kB Used in GitHub's Storage 
  > 
-> 🏆 1,170 Contributions in the Year 2023
+> 🏆 1,171 Contributions in the Year 2023
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -106,14 +106,11 @@ Sunday                   2009 commits        ████░░░░░░░�
 🕑︎ Time Zone: Asia/Singapore
 
 💬 Programming Languages: 
-TypeScript               1 hr 10 mins        ███████████████░░░░░░░░░░   61.74 % 
-Markdown                 43 mins             ██████████░░░░░░░░░░░░░░░   38.15 % 
-JSON                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.07 % 
-Other                    0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.04 % 
+No Activity Tracked This Week
 ```
 
 
- Last Updated on 08/06/2023 00:52:48 UTC
+ Last Updated on 09/06/2023 00:56:06 UTC
 <!--END_SECTION:waka-->
 
 </details>
