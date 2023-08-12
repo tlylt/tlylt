@@ -3,11 +3,11 @@
 ### Recent Activities
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#2222](https://github.com/youngyangyang04/leetcode-master/pull/2222) in [youngyangyang04/leetcode-master](https://github.com/youngyangyang04/leetcode-master)
-2. ❌ Closed PR [#2](https://github.com/tlylt/leetcode-master/pull/2) in [tlylt/leetcode-master](https://github.com/tlylt/leetcode-master)
-3. 💪 Opened PR [#2](https://github.com/tlylt/leetcode-master/pull/2) in [tlylt/leetcode-master](https://github.com/tlylt/leetcode-master)
-4. 🔒 Closed issue [#1752](https://github.com/MarkBind/markbind/issues/1752) in [MarkBind/markbind](https://github.com/MarkBind/markbind)
-5. 🎉 Merged PR [#2344](https://github.com/MarkBind/markbind/pull/2344) in [MarkBind/markbind](https://github.com/MarkBind/markbind)
+1. 🗣 Commented on [#2345](https://github.com/MarkBind/markbind/pull/2345#issuecomment-1675732683) in [MarkBind/markbind](https://github.com/MarkBind/markbind)
+2. 🗣 Commented on [#2345](https://github.com/MarkBind/markbind/pull/2345#issuecomment-1675726073) in [MarkBind/markbind](https://github.com/MarkBind/markbind)
+3. 💪 Opened PR [#2222](https://github.com/youngyangyang04/leetcode-master/pull/2222) in [youngyangyang04/leetcode-master](https://github.com/youngyangyang04/leetcode-master)
+4. ❌ Closed PR [#2](https://github.com/tlylt/leetcode-master/pull/2) in [tlylt/leetcode-master](https://github.com/tlylt/leetcode-master)
+5. 💪 Opened PR [#2](https://github.com/tlylt/leetcode-master/pull/2) in [tlylt/leetcode-master](https://github.com/tlylt/leetcode-master)
 <!--END_SECTION:activity-->
 
 ## GitHub Statistics :chart_with_upwards_trend:
