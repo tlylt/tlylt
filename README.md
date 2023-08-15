@@ -3,11 +3,11 @@
 ### Recent Activities
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#2345](https://github.com/MarkBind/markbind/pull/2345#issuecomment-1677193211) in [MarkBind/markbind](https://github.com/MarkBind/markbind)
-2. 🗣 Commented on [#2354](https://github.com/MarkBind/markbind/pull/2354#issuecomment-1677166955) in [MarkBind/markbind](https://github.com/MarkBind/markbind)
-3. 🗣 Commented on [#2327](https://github.com/MarkBind/markbind/issues/2327#issuecomment-1677160773) in [MarkBind/markbind](https://github.com/MarkBind/markbind)
-4. 🗣 Commented on [#2345](https://github.com/MarkBind/markbind/pull/2345#issuecomment-1676388467) in [MarkBind/markbind](https://github.com/MarkBind/markbind)
-5. 💪 Opened PR [#2233](https://github.com/youngyangyang04/leetcode-master/pull/2233) in [youngyangyang04/leetcode-master](https://github.com/youngyangyang04/leetcode-master)
+1. 🗣 Commented on [#2327](https://github.com/MarkBind/markbind/issues/2327#issuecomment-1678737090) in [MarkBind/markbind](https://github.com/MarkBind/markbind)
+2. 🔒 Closed issue [#1755](https://github.com/MarkBind/markbind/issues/1755) in [MarkBind/markbind](https://github.com/MarkBind/markbind)
+3. 🎉 Merged PR [#2348](https://github.com/MarkBind/markbind/pull/2348) in [MarkBind/markbind](https://github.com/MarkBind/markbind)
+4. 🗣 Commented on [#2345](https://github.com/MarkBind/markbind/pull/2345#issuecomment-1677193211) in [MarkBind/markbind](https://github.com/MarkBind/markbind)
+5. 🗣 Commented on [#2354](https://github.com/MarkBind/markbind/pull/2354#issuecomment-1677166955) in [MarkBind/markbind](https://github.com/MarkBind/markbind)
 <!--END_SECTION:activity-->
 
 ## GitHub Statistics :chart_with_upwards_trend:
