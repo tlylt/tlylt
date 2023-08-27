@@ -3,11 +3,11 @@
 ### Recent Activities
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#2345](https://github.com/MarkBind/markbind/pull/2345#issuecomment-1694240249) in [MarkBind/markbind](https://github.com/MarkBind/markbind)
-2. 🗣 Commented on [#2345](https://github.com/MarkBind/markbind/pull/2345#issuecomment-1694210113) in [MarkBind/markbind](https://github.com/MarkBind/markbind)
-3. 🗣 Commented on [#2355](https://github.com/MarkBind/markbind/pull/2355#issuecomment-1694204326) in [MarkBind/markbind](https://github.com/MarkBind/markbind)
-4. 🗣 Commented on [#2345](https://github.com/MarkBind/markbind/pull/2345#issuecomment-1693123518) in [MarkBind/markbind](https://github.com/MarkBind/markbind)
-5. 🗣 Commented on [#2356](https://github.com/MarkBind/markbind/pull/2356#issuecomment-1692591077) in [MarkBind/markbind](https://github.com/MarkBind/markbind)
+1. 💪 Opened PR [#2361](https://github.com/MarkBind/markbind/pull/2361) in [MarkBind/markbind](https://github.com/MarkBind/markbind)
+2. 🗣 Commented on [#156](https://github.com/se-edu/addressbook-level3/pull/156#issuecomment-1694600911) in [se-edu/addressbook-level3](https://github.com/se-edu/addressbook-level3)
+3. 🚀 Published release [v5.0.2](https://github.com/MarkBind/markbind/releases/tag/v5.0.2) in [MarkBind/markbind](https://github.com/MarkBind/markbind)
+4. 🔒 Closed issue [#1617](https://github.com/MarkBind/markbind/issues/1617) in [MarkBind/markbind](https://github.com/MarkBind/markbind)
+5. 🎉 Merged PR [#2345](https://github.com/MarkBind/markbind/pull/2345) in [MarkBind/markbind](https://github.com/MarkBind/markbind)
 <!--END_SECTION:activity-->
 
 ## GitHub Statistics :chart_with_upwards_trend:
