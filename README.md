@@ -52,11 +52,11 @@
 <summary> <b>📕 Latest Blog Posts</b> </summary>
 
 <!-- BLOG-POST-LIST:START -->
-- [Deploy a ChatGPT API Server in no time](https://www.yongliangliu.com/blog/chatgpt-nextjs-server/)
-- [Creating a regex-based Markdown parser in TypeScript](https://www.yongliangliu.com/blog/rmark/)
-- [Create VSCode Snippets for Markdown Blog Workflows](https://www.yongliangliu.com/blog/vscode-snippets/)
-- [Brag Doc 2023](https://www.yongliangliu.com/blog/brag-doc-2023/)
-- [My Journey into Open Source](https://www.yongliangliu.com/blog/my-journey-into-open-source/)
+- [End of Year 3 Sem 2](https://yongliangliu.com/blog/end-of-year-3-sem-2)
+- [Deploy a ChatGPT API Server in no time](https://yongliangliu.com/blog/chatgpt-nextjs-server)
+- [Creating a regex-based Markdown parser in TypeScript](https://yongliangliu.com/blog/rmark)
+- [Create VSCode Snippets for Markdown Blog Workflows](https://yongliangliu.com/blog/vscode-snippets)
+- [Brag Doc 2023](https://yongliangliu.com/blog/brag-doc-2023)
 <!-- BLOG-POST-LIST:END -->
 
 </details>
