@@ -3,11 +3,11 @@
 ### Recent Activities
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#2369](https://github.com/MarkBind/markbind/pull/2369#issuecomment-1720325308) in [MarkBind/markbind](https://github.com/MarkBind/markbind)
-2. 🗣 Commented on [#2334](https://github.com/MarkBind/markbind/issues/2334#issuecomment-1717493237) in [MarkBind/markbind](https://github.com/MarkBind/markbind)
-3. 🗣 Commented on [#206](https://github.com/se-edu/addressbook-level3/pull/206#issuecomment-1714179931) in [se-edu/addressbook-level3](https://github.com/se-edu/addressbook-level3)
-4. 🗣 Commented on [#156](https://github.com/se-edu/addressbook-level3/pull/156#issuecomment-1713946377) in [se-edu/addressbook-level3](https://github.com/se-edu/addressbook-level3)
-5. 🗣 Commented on [#156](https://github.com/se-edu/addressbook-level3/pull/156#issuecomment-1712965914) in [se-edu/addressbook-level3](https://github.com/se-edu/addressbook-level3)
+1. 🔒 Closed issue [#2334](https://github.com/MarkBind/markbind/issues/2334) in [MarkBind/markbind](https://github.com/MarkBind/markbind)
+2. 🎉 Merged PR [#2369](https://github.com/MarkBind/markbind/pull/2369) in [MarkBind/markbind](https://github.com/MarkBind/markbind)
+3. 🗣 Commented on [#2369](https://github.com/MarkBind/markbind/pull/2369#issuecomment-1720325308) in [MarkBind/markbind](https://github.com/MarkBind/markbind)
+4. 🗣 Commented on [#2334](https://github.com/MarkBind/markbind/issues/2334#issuecomment-1717493237) in [MarkBind/markbind](https://github.com/MarkBind/markbind)
+5. 🗣 Commented on [#206](https://github.com/se-edu/addressbook-level3/pull/206#issuecomment-1714179931) in [se-edu/addressbook-level3](https://github.com/se-edu/addressbook-level3)
 <!--END_SECTION:activity-->
 
 ## GitHub Statistics :chart_with_upwards_trend:
