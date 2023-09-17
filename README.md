@@ -3,11 +3,11 @@
 ### Recent Activities
 
 <!--START_SECTION:activity-->
-1. 🔒 Closed issue [#2334](https://github.com/MarkBind/markbind/issues/2334) in [MarkBind/markbind](https://github.com/MarkBind/markbind)
-2. 🎉 Merged PR [#2369](https://github.com/MarkBind/markbind/pull/2369) in [MarkBind/markbind](https://github.com/MarkBind/markbind)
-3. 🗣 Commented on [#2369](https://github.com/MarkBind/markbind/pull/2369#issuecomment-1720325308) in [MarkBind/markbind](https://github.com/MarkBind/markbind)
-4. 🗣 Commented on [#2334](https://github.com/MarkBind/markbind/issues/2334#issuecomment-1717493237) in [MarkBind/markbind](https://github.com/MarkBind/markbind)
-5. 🗣 Commented on [#206](https://github.com/se-edu/addressbook-level3/pull/206#issuecomment-1714179931) in [se-edu/addressbook-level3](https://github.com/se-edu/addressbook-level3)
+1. 🔒 Closed issue [#2](https://github.com/AY2324S1-CS2103T-F10-3/tp/issues/2) in [AY2324S1-CS2103T-F10-3/tp](https://github.com/AY2324S1-CS2103T-F10-3/tp)
+2. 🗣 Commented on [#2](https://github.com/AY2324S1-CS2103T-F10-3/tp/issues/2#issuecomment-1722381635) in [AY2324S1-CS2103T-F10-3/tp](https://github.com/AY2324S1-CS2103T-F10-3/tp)
+3. 🔒 Closed issue [#2](https://github.com/AY2324S1-CS2103T-T15-3/tp/issues/2) in [AY2324S1-CS2103T-T15-3/tp](https://github.com/AY2324S1-CS2103T-T15-3/tp)
+4. 🗣 Commented on [#2](https://github.com/AY2324S1-CS2103T-T15-3/tp/issues/2#issuecomment-1722378035) in [AY2324S1-CS2103T-T15-3/tp](https://github.com/AY2324S1-CS2103T-T15-3/tp)
+5. ❗ Opened issue [#2](https://github.com/AY2324S1-CS2103T-F10-3/tp/issues/2) in [AY2324S1-CS2103T-F10-3/tp](https://github.com/AY2324S1-CS2103T-F10-3/tp)
 <!--END_SECTION:activity-->
 
 ## GitHub Statistics :chart_with_upwards_trend:
