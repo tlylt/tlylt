@@ -3,11 +3,11 @@
 ### Recent Activities
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#157](https://github.com/nus-cs2103-AY2324S1/forum/issues/157#issuecomment-1727456382) in [nus-cs2103-AY2324S1/forum](https://github.com/nus-cs2103-AY2324S1/forum)
-2. 🗣 Commented on [#157](https://github.com/nus-cs2103-AY2324S1/forum/issues/157#issuecomment-1726978058) in [nus-cs2103-AY2324S1/forum](https://github.com/nus-cs2103-AY2324S1/forum)
-3. 🔒 Closed issue [#2](https://github.com/AY2324S1-CS2103T-F10-3/tp/issues/2) in [AY2324S1-CS2103T-F10-3/tp](https://github.com/AY2324S1-CS2103T-F10-3/tp)
-4. 🗣 Commented on [#2](https://github.com/AY2324S1-CS2103T-F10-3/tp/issues/2#issuecomment-1722381635) in [AY2324S1-CS2103T-F10-3/tp](https://github.com/AY2324S1-CS2103T-F10-3/tp)
-5. 🔒 Closed issue [#2](https://github.com/AY2324S1-CS2103T-T15-3/tp/issues/2) in [AY2324S1-CS2103T-T15-3/tp](https://github.com/AY2324S1-CS2103T-T15-3/tp)
+1. 🗣 Commented on [#157](https://github.com/nus-cs2103-AY2324S1/forum/issues/157#issuecomment-1727629851) in [nus-cs2103-AY2324S1/forum](https://github.com/nus-cs2103-AY2324S1/forum)
+2. 🗣 Commented on [#157](https://github.com/nus-cs2103-AY2324S1/forum/issues/157#issuecomment-1727456382) in [nus-cs2103-AY2324S1/forum](https://github.com/nus-cs2103-AY2324S1/forum)
+3. 🗣 Commented on [#157](https://github.com/nus-cs2103-AY2324S1/forum/issues/157#issuecomment-1726978058) in [nus-cs2103-AY2324S1/forum](https://github.com/nus-cs2103-AY2324S1/forum)
+4. 🔒 Closed issue [#2](https://github.com/AY2324S1-CS2103T-F10-3/tp/issues/2) in [AY2324S1-CS2103T-F10-3/tp](https://github.com/AY2324S1-CS2103T-F10-3/tp)
+5. 🗣 Commented on [#2](https://github.com/AY2324S1-CS2103T-F10-3/tp/issues/2#issuecomment-1722381635) in [AY2324S1-CS2103T-F10-3/tp](https://github.com/AY2324S1-CS2103T-F10-3/tp)
 <!--END_SECTION:activity-->
 
 ## GitHub Statistics :chart_with_upwards_trend:
