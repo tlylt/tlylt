@@ -3,11 +3,11 @@
 ### Recent Activities
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#2357](https://github.com/MarkBind/markbind/pull/2357#issuecomment-1752282228) in [MarkBind/markbind](https://github.com/MarkBind/markbind)
-2. 🗣 Commented on [#2357](https://github.com/MarkBind/markbind/pull/2357#issuecomment-1749827728) in [MarkBind/markbind](https://github.com/MarkBind/markbind)
-3. ❗ Opened issue [#14](https://github.com/MarkBind/markbind-action/issues/14) in [MarkBind/markbind-action](https://github.com/MarkBind/markbind-action)
-4. ❗ Opened issue [#2370](https://github.com/MarkBind/markbind/issues/2370) in [MarkBind/markbind](https://github.com/MarkBind/markbind)
-5. 🗣 Commented on [#228](https://github.com/nus-cs2103-AY2324S1/forum/issues/228#issuecomment-1741890709) in [nus-cs2103-AY2324S1/forum](https://github.com/nus-cs2103-AY2324S1/forum)
+1. 🗣 Commented on [#2371](https://github.com/MarkBind/markbind/issues/2371#issuecomment-1755039994) in [MarkBind/markbind](https://github.com/MarkBind/markbind)
+2. 🗣 Commented on [#2357](https://github.com/MarkBind/markbind/pull/2357#issuecomment-1752282228) in [MarkBind/markbind](https://github.com/MarkBind/markbind)
+3. 🗣 Commented on [#2357](https://github.com/MarkBind/markbind/pull/2357#issuecomment-1749827728) in [MarkBind/markbind](https://github.com/MarkBind/markbind)
+4. ❗ Opened issue [#14](https://github.com/MarkBind/markbind-action/issues/14) in [MarkBind/markbind-action](https://github.com/MarkBind/markbind-action)
+5. ❗ Opened issue [#2370](https://github.com/MarkBind/markbind/issues/2370) in [MarkBind/markbind](https://github.com/MarkBind/markbind)
 <!--END_SECTION:activity-->
 
 ## GitHub Statistics :chart_with_upwards_trend:
