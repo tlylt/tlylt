@@ -3,11 +3,11 @@
 ### Recent Activities
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#2376](https://github.com/MarkBind/markbind/issues/2376#issuecomment-1793919448) in [MarkBind/markbind](https://github.com/MarkBind/markbind)
-2. 🗣 Commented on [#2376](https://github.com/MarkBind/markbind/issues/2376#issuecomment-1793607659) in [MarkBind/markbind](https://github.com/MarkBind/markbind)
-3. 🗣 Commented on [#2352](https://github.com/MarkBind/markbind/issues/2352#issuecomment-1783741936) in [MarkBind/markbind](https://github.com/MarkBind/markbind)
-4. 🗣 Commented on [#2067](https://github.com/MarkBind/markbind/issues/2067#issuecomment-1774886334) in [MarkBind/markbind](https://github.com/MarkBind/markbind)
-5. 🗣 Commented on [#2245](https://github.com/MarkBind/markbind/issues/2245#issuecomment-1774870774) in [MarkBind/markbind](https://github.com/MarkBind/markbind)
+1. 🗣 Commented on [#384](https://github.com/nus-cs2103-AY2324S1/forum/issues/384#issuecomment-1804828350) in [nus-cs2103-AY2324S1/forum](https://github.com/nus-cs2103-AY2324S1/forum)
+2. 🗣 Commented on [#2376](https://github.com/MarkBind/markbind/issues/2376#issuecomment-1793919448) in [MarkBind/markbind](https://github.com/MarkBind/markbind)
+3. 🗣 Commented on [#2376](https://github.com/MarkBind/markbind/issues/2376#issuecomment-1793607659) in [MarkBind/markbind](https://github.com/MarkBind/markbind)
+4. 🗣 Commented on [#2352](https://github.com/MarkBind/markbind/issues/2352#issuecomment-1783741936) in [MarkBind/markbind](https://github.com/MarkBind/markbind)
+5. 🗣 Commented on [#2067](https://github.com/MarkBind/markbind/issues/2067#issuecomment-1774886334) in [MarkBind/markbind](https://github.com/MarkBind/markbind)
 <!--END_SECTION:activity-->
 
 ## GitHub Statistics :chart_with_upwards_trend:
