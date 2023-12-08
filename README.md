@@ -65,9 +65,11 @@
 <summary> <b>📊 Weekly Stats</b> </summary>
 
 <!--START_SECTION:waka-->
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C167%20hrs%2043%20mins-blue)
+
 **🐱 My GitHub Data** 
 
-> 📦 665.1 kB Used in GitHub's Storage 
+> 📦 664.6 kB Used in GitHub's Storage 
  > 
 > 🏆 1,626 Contributions in the Year 2023
  > 
@@ -111,7 +113,7 @@ JSON                     0 secs              ░░░░░░░░░░░�
 ```
 
 
- Last Updated on 07/12/2023 00:47:40 UTC
+ Last Updated on 08/12/2023 00:46:48 UTC
 <!--END_SECTION:waka-->
 
 </details>
