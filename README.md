@@ -3,11 +3,11 @@
 ### Recent Activities
 
 <!--START_SECTION:activity-->
-1. ❌ Closed PR [#2308](https://github.com/MarkBind/markbind/pull/2308) in [MarkBind/markbind](https://github.com/MarkBind/markbind)
-2. 🗣 Commented on [#2308](https://github.com/MarkBind/markbind/pull/2308#issuecomment-1865834011) in [MarkBind/markbind](https://github.com/MarkBind/markbind)
-3. 🚀 Published release [v5.2.0](https://github.com/MarkBind/markbind/releases/tag/v5.2.0) in [MarkBind/markbind](https://github.com/MarkBind/markbind)
-4. 🗣 Commented on [#2375](https://github.com/MarkBind/markbind/pull/2375#issuecomment-1848968195) in [MarkBind/markbind](https://github.com/MarkBind/markbind)
-5. ❌ Closed PR [#2375](https://github.com/MarkBind/markbind/pull/2375) in [MarkBind/markbind](https://github.com/MarkBind/markbind)
+1. 🗣 Commented on [#2382](https://github.com/MarkBind/markbind/issues/2382#issuecomment-1867125133) in [MarkBind/markbind](https://github.com/MarkBind/markbind)
+2. ❌ Closed PR [#2308](https://github.com/MarkBind/markbind/pull/2308) in [MarkBind/markbind](https://github.com/MarkBind/markbind)
+3. 🗣 Commented on [#2308](https://github.com/MarkBind/markbind/pull/2308#issuecomment-1865834011) in [MarkBind/markbind](https://github.com/MarkBind/markbind)
+4. 🚀 Published release [v5.2.0](https://github.com/MarkBind/markbind/releases/tag/v5.2.0) in [MarkBind/markbind](https://github.com/MarkBind/markbind)
+5. 🗣 Commented on [#2375](https://github.com/MarkBind/markbind/pull/2375#issuecomment-1848968195) in [MarkBind/markbind](https://github.com/MarkBind/markbind)
 <!--END_SECTION:activity-->
 
 ## GitHub Statistics :chart_with_upwards_trend:
