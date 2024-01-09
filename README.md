@@ -52,11 +52,11 @@
 <summary> <b>📕 Latest Blog Posts</b> </summary>
 
 <!-- BLOG-POST-LIST:START -->
+- [The Prebound Method and Sentinel Object Pattern in Python](https://yongliangliu.com/blog/prebound-sentinel-pattern-in-python)
 - [Software Problems - Exceptions](https://yongliangliu.com/blog/software-problems-exceptions)
 - [End of Year 3 Sem 2](https://yongliangliu.com/blog/end-of-year-3-sem-2)
 - [Deploy a ChatGPT API Server in no time](https://yongliangliu.com/blog/chatgpt-nextjs-server)
 - [Creating a regex-based Markdown parser in TypeScript](https://yongliangliu.com/blog/rmark)
-- [Create VSCode Snippets for Markdown Blog Workflows](https://yongliangliu.com/blog/vscode-snippets)
 <!-- BLOG-POST-LIST:END -->
 
 </details>
