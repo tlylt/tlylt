@@ -3,9 +3,9 @@
 ### Recent Activities
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#2422](https://github.com/youngyangyang04/leetcode-master/pull/2422) in [youngyangyang04/leetcode-master](https://github.com/youngyangyang04/leetcode-master)
-2. 🗣 Commented on [#1883](https://github.com/MarkBind/markbind/issues/1883#issuecomment-1901722955) in [MarkBind/markbind](https://github.com/MarkBind/markbind)
-3. 🗣 Commented on [#2308](https://github.com/MarkBind/markbind/pull/2308#issuecomment-1865834011) in [MarkBind/markbind](https://github.com/MarkBind/markbind)
+1. 🗣 Commented on [#2370](https://github.com/MarkBind/markbind/issues/2370#issuecomment-1907497519) in [MarkBind/markbind](https://github.com/MarkBind/markbind)
+2. 💪 Opened PR [#2422](https://github.com/youngyangyang04/leetcode-master/pull/2422) in [youngyangyang04/leetcode-master](https://github.com/youngyangyang04/leetcode-master)
+3. 🗣 Commented on [#1883](https://github.com/MarkBind/markbind/issues/1883#issuecomment-1901722955) in [MarkBind/markbind](https://github.com/MarkBind/markbind)
 4. 🚀 Published release [v5.2.0](https://github.com/MarkBind/markbind/releases/tag/v5.2.0) in [MarkBind/markbind](https://github.com/MarkBind/markbind)
 5. 🗣 Commented on [#2375](https://github.com/MarkBind/markbind/pull/2375#issuecomment-1848968195) in [MarkBind/markbind](https://github.com/MarkBind/markbind)
 <!--END_SECTION:activity-->
