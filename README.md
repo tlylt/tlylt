@@ -64,7 +64,9 @@
 
 **🐱 My GitHub Data** 
 
-> 📦 678.7 kB Used in GitHub's Storage 
+> 📦 678.8 kB Used in GitHub's Storage 
+ > 
+> 🏆 296 Contributions in the Year 2024
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -103,7 +105,7 @@ Markdown                 6 mins              ███████████�
 ```
 
 
- Last Updated on 28/08/2024 00:45:14 UTC
+ Last Updated on 29/08/2024 00:45:47 UTC
 <!--END_SECTION:waka-->
 
 </details>
