@@ -60,11 +60,13 @@
 <summary> <b>📊 Weekly Stats</b> </summary>
 
 <!--START_SECTION:waka-->
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C211%20hrs%2055%20mins-blue)
+
 **🐱 My GitHub Data** 
 
 > 📦 678.8 kB Used in GitHub's Storage 
  > 
-> 🏆 0 Contributions in the Year 2024
+> 🏆 298 Contributions in the Year 2024
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -106,7 +108,7 @@ HTML                     0 secs              ░░░░░░░░░░░�
 ```
 
 
- Last Updated on 09/09/2024 00:48:28 UTC
+ Last Updated on 10/09/2024 00:48:51 UTC
 <!--END_SECTION:waka-->
 
 </details>
