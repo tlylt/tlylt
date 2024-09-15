@@ -66,6 +66,8 @@
 
 > 📦 678.8 kB Used in GitHub's Storage 
  > 
+> 🏆 298 Contributions in the Year 2024
+ > 
 > 🚫 Not Opted to Hire
  > 
 > 📜 170 Public Repositories 
@@ -99,13 +101,11 @@ Sunday                   1833 commits        ████░░░░░░░�
 🕑︎ Time Zone: Asia/Singapore
 
 💬 Programming Languages: 
-JavaScript               4 mins              ████████████████░░░░░░░░░   66.00 % 
-JSON                     2 mins              ████████░░░░░░░░░░░░░░░░░   30.40 % 
-HTML                     0 secs              █░░░░░░░░░░░░░░░░░░░░░░░░   03.60 % 
+Markdown                 52 mins             █████████████████████████   100.00 % 
 ```
 
 
- Last Updated on 14/09/2024 00:47:47 UTC
+ Last Updated on 15/09/2024 00:53:54 UTC
 <!--END_SECTION:waka-->
 
 </details>
