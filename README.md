@@ -3,11 +3,11 @@
 ### Recent Activities
 
 <!--START_SECTION:activity-->
-1. 🔒 Closed issue [#2541](https://github.com/MarkBind/markbind/issues/2541) in [MarkBind/markbind](https://github.com/MarkBind/markbind)
-2. 🎉 Merged PR [#2572](https://github.com/MarkBind/markbind/pull/2572) in [MarkBind/markbind](https://github.com/MarkBind/markbind)
-3. 🗣 Commented on [#2572](https://github.com/MarkBind/markbind/pull/2572#issuecomment-2344386004) in [MarkBind/markbind](https://github.com/MarkBind/markbind)
-4. 🚀 Published release [v5.5.3](https://github.com/MarkBind/markbind/releases/tag/v5.5.3) in [MarkBind/markbind](https://github.com/MarkBind/markbind)
-5. 🗣 Commented on [#2570](https://github.com/MarkBind/markbind/issues/2570#issuecomment-2328860027) in [MarkBind/markbind](https://github.com/MarkBind/markbind)
+1. 🚀 Published release [v2.0.2](https://github.com/MarkBind/markbind-action/releases/tag/v2.0.2) in [MarkBind/markbind-action](https://github.com/MarkBind/markbind-action)
+2. 🎉 Merged PR [#17](https://github.com/MarkBind/markbind-action/pull/17) in [MarkBind/markbind-action](https://github.com/MarkBind/markbind-action)
+3. 🎉 Merged PR [#6](https://github.com/MarkBind/init-typical-netlify/pull/6) in [MarkBind/init-typical-netlify](https://github.com/MarkBind/init-typical-netlify)
+4. 🎉 Merged PR [#6](https://github.com/MarkBind/init-minimal-netlify/pull/6) in [MarkBind/init-minimal-netlify](https://github.com/MarkBind/init-minimal-netlify)
+5. 🔒 Closed issue [#2541](https://github.com/MarkBind/markbind/issues/2541) in [MarkBind/markbind](https://github.com/MarkBind/markbind)
 <!--END_SECTION:activity-->
 
 ## GitHub Statistics :chart_with_upwards_trend:
