@@ -47,11 +47,11 @@
 <summary> <b>📕 Latest Blog Posts</b> </summary>
 
 <!-- BLOG-POST-LIST:START -->
+- [Creating a compiler-based Markdown parser in TypeScript - Part 1](https://yongliangliu.com/blog/cmark-1)
 - [Useful Computer Science Modules](https://yongliangliu.com/blog/useful-cs-mods-after-grad)
 - [The 2 x 2 problem](https://yongliangliu.com/blog/2x2-problem)
 - [On Keeping Task Descriptions Up to Date](https://yongliangliu.com/blog/on-keeping-task-descriptions-up-to-date)
 - [Easy vs Right](https://yongliangliu.com/blog/easy-vs-right)
-- [The Prebound Method and Sentinel Object Pattern in Python](https://yongliangliu.com/blog/prebound-sentinel-pattern-in-python)
 <!-- BLOG-POST-LIST:END -->
 
 </details>
