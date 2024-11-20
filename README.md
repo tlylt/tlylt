@@ -47,11 +47,11 @@
 <summary> <b>📕 Latest Blog Posts</b> </summary>
 
 <!-- BLOG-POST-LIST:START -->
+- [Domain Modeling](https://yongliangliu.com/blog/apwp-1)
 - [Assert with Retry](https://yongliangliu.com/blog/assert-with-retry)
 - [The Many Reasons Why a Pipeline Can Fail](https://yongliangliu.com/blog/pipeline-failures)
 - [Using the Drop Trait in Rust to Manage End-of-Scope Logic](https://yongliangliu.com/blog/rust-drop-trait)
 - [fatal could not read Username for &#39;https://git.xxxxxx.com&#39; terminal prompts disabled](https://yongliangliu.com/blog/with-credentials-git)
-- [Creating a compiler-based Markdown parser in TypeScript - Part 1](https://yongliangliu.com/blog/cmark-1)
 <!-- BLOG-POST-LIST:END -->
 
 </details>
