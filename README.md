@@ -47,11 +47,11 @@
 <summary> <b>📕 Latest Blog Posts</b> </summary>
 
 <!-- BLOG-POST-LIST:START -->
+- [Return a Bool or an Error in Go?](https://yongliangliu.com/blog/go-return-bool-or-error)
 - [Tauri-0 - Setting up a Tauri project](https://yongliangliu.com/blog/tauri-0)
 - [Go Errors](https://yongliangliu.com/blog/golang-errors)
 - [Reflection on Personal Finance](https://yongliangliu.com/blog/financial-lessons)
 - [My Go-To Git Commands to Fix Mistakes](https://yongliangliu.com/blog/git-commands)
-- [Domain Modeling](https://yongliangliu.com/blog/apwp-1)
 <!-- BLOG-POST-LIST:END -->
 
 </details>
