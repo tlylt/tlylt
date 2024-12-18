@@ -64,7 +64,7 @@
 
 **🐱 My GitHub Data** 
 
-> 📦 674.8 kB Used in GitHub's Storage 
+> 📦 675.1 kB Used in GitHub's Storage 
  > 
 > 🏆 344 Contributions in the Year 2024
  > 
@@ -101,11 +101,11 @@ Sunday                   1840 commits        ████░░░░░░░�
 🕑︎ Time Zone: Asia/Singapore
 
 💬 Programming Languages: 
-Markdown                 2 mins              █████████████████████████   100.00 % 
+Markdown                 0 secs              █████████████████████████   100.00 % 
 ```
 
 
- Last Updated on 17/12/2024 00:54:35 UTC
+ Last Updated on 18/12/2024 00:52:19 UTC
 <!--END_SECTION:waka-->
 
 </details>
