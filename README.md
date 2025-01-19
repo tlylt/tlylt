@@ -3,7 +3,7 @@
 ### Recent Activities
 
 <!--START_SECTION:activity-->
-1. 🚀 Published release [v2.0.2](https://github.com/MarkBind/markbind-action/releases/tag/v2.0.2) in [MarkBind/markbind-action](https://github.com/MarkBind/markbind-action)
+1. 🗣 Commented on [#2073](https://github.com/MarkBind/markbind/issues/2073#issuecomment-2600528443) in [MarkBind/markbind](https://github.com/MarkBind/markbind)
 2. 🎉 Merged PR [#17](https://github.com/MarkBind/markbind-action/pull/17) in [MarkBind/markbind-action](https://github.com/MarkBind/markbind-action)
 3. 🎉 Merged PR [#6](https://github.com/MarkBind/init-typical-netlify/pull/6) in [MarkBind/init-typical-netlify](https://github.com/MarkBind/init-typical-netlify)
 4. 🎉 Merged PR [#6](https://github.com/MarkBind/init-minimal-netlify/pull/6) in [MarkBind/init-minimal-netlify](https://github.com/MarkBind/init-minimal-netlify)
