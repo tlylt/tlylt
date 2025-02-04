@@ -64,7 +64,9 @@
 
 **🐱 My GitHub Data** 
 
-> 📦 675.5 kB Used in GitHub's Storage 
+> 📦 675.6 kB Used in GitHub's Storage 
+ > 
+> 🏆 6 Contributions in the Year 2025
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -99,11 +101,11 @@ Sunday                   1839 commits        ████░░░░░░░�
 🕑︎ Time Zone: Asia/Singapore
 
 💬 Programming Languages: 
-Markdown                 38 mins             █████████████████████████   100.00 % 
+Markdown                 36 mins             █████████████████████████   100.00 % 
 ```
 
 
- Last Updated on 03/02/2025 00:51:40 UTC
+ Last Updated on 04/02/2025 00:49:10 UTC
 <!--END_SECTION:waka-->
 
 </details>
