@@ -3,10 +3,10 @@
 ### Recent Activities
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#2066](https://github.com/MarkBind/markbind/issues/2066#issuecomment-2650739918) in [MarkBind/markbind](https://github.com/MarkBind/markbind)
-2. 🗣 Commented on [#2073](https://github.com/MarkBind/markbind/issues/2073#issuecomment-2600528443) in [MarkBind/markbind](https://github.com/MarkBind/markbind)
-3. 🎉 Merged PR [#6](https://github.com/MarkBind/init-typical-netlify/pull/6) in [MarkBind/init-typical-netlify](https://github.com/MarkBind/init-typical-netlify)
-4. 🎉 Merged PR [#6](https://github.com/MarkBind/init-minimal-netlify/pull/6) in [MarkBind/init-minimal-netlify](https://github.com/MarkBind/init-minimal-netlify)
+1. 🔒 Closed issue [#2561](https://github.com/MarkBind/markbind/issues/2561) in [MarkBind/markbind](https://github.com/MarkBind/markbind)
+2. 🎉 Merged PR [#2598](https://github.com/MarkBind/markbind/pull/2598) in [MarkBind/markbind](https://github.com/MarkBind/markbind)
+3. 🗣 Commented on [#2066](https://github.com/MarkBind/markbind/issues/2066#issuecomment-2650739918) in [MarkBind/markbind](https://github.com/MarkBind/markbind)
+4. 🗣 Commented on [#2073](https://github.com/MarkBind/markbind/issues/2073#issuecomment-2600528443) in [MarkBind/markbind](https://github.com/MarkBind/markbind)
 5. 🔒 Closed issue [#2541](https://github.com/MarkBind/markbind/issues/2541) in [MarkBind/markbind](https://github.com/MarkBind/markbind)
 <!--END_SECTION:activity-->
 
