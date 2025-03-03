@@ -27,11 +27,7 @@
 
 ## Activities <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
 
-### 🔭 Open Source
-
-#### 👷‍♂️✍️ Maintaining
-[![MarkBind](https://github-readme-stats-tlylt.vercel.app/api/pin/?username=markbind&repo=markbind)](https://github.com/MarkBind/markbind)
-
+### 👷‍♂️✍️
 <details>
 <summary> <b>🎬 Published GitHub Actions </b> </summary>
 
