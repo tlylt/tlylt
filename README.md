@@ -47,11 +47,11 @@
 <summary> <b>📕 Latest Blog Posts</b> </summary>
 
 <!-- BLOG-POST-LIST:START -->
+- [Go Data Race Pop Quiz Analyzed](https://yongliangliu.com/blog/data-race-pop-quiz-dave-cheney)
 - [Code Isn&#39;t Working - Checklist](https://yongliangliu.com/blog/code-not-working-checklist)
 - [Go WARNING DATA RACE despite atomic operations](https://yongliangliu.com/blog/go-data-race-atomic)
 - [Go Project Setup Cheatsheet](https://yongliangliu.com/blog/go-setup-cheatsheet)
 - [Return a Bool or an Error in Go?](https://yongliangliu.com/blog/go-return-bool-or-error)
-- [Tauri-0 - Setting up a Tauri project](https://yongliangliu.com/blog/tauri-0)
 <!-- BLOG-POST-LIST:END -->
 
 </details>
