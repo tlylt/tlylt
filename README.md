@@ -56,11 +56,13 @@
 <summary> <b>📊 Weekly Stats</b> </summary>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C241%20hrs%209%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C241%20hrs%2010%20mins-blue)
 
 **🐱 My GitHub Data** 
 
-> 📦 677.7 kB Used in GitHub's Storage 
+> 📦 677.9 kB Used in GitHub's Storage 
+ > 
+> 🏆 39 Contributions in the Year 2025
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -95,11 +97,13 @@ Sunday                   1842 commits        ████░░░░░░░�
 🕑︎ Time Zone: Asia/Singapore
 
 💬 Programming Languages: 
-No Activity Tracked This Week
+Go                       37 mins             ███████████████████████░░   93.55 % 
+reStructuredText         2 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   05.33 % 
+Markdown                 0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.12 % 
 ```
 
 
- Last Updated on 04/03/2025 00:52:00 UTC
+ Last Updated on 05/03/2025 00:52:28 UTC
 <!--END_SECTION:waka-->
 
 </details>
