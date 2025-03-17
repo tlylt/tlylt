@@ -43,11 +43,11 @@
 <summary> <b>📕 Latest Blog Posts</b> </summary>
 
 <!-- BLOG-POST-LIST:START -->
+- [The Need For Speed to Deliver Your Website Fast](https://yongliangliu.com/blog/the-need-for-speed-web-dev)
 - [Go defer Can Mess Up Your Intended Code Logic](https://yongliangliu.com/blog/go-defer-ordering)
 - [Go Nil Pointer Dereference Problem with FindXXX](https://yongliangliu.com/blog/go-nil-pointer-dereference)
 - [Go Data Race Pop Quiz Analyzed](https://yongliangliu.com/blog/data-race-pop-quiz-dave-cheney)
 - [Code Isn&#39;t Working - Checklist](https://yongliangliu.com/blog/code-not-working-checklist)
-- [Go WARNING DATA RACE despite atomic operations](https://yongliangliu.com/blog/go-data-race-atomic)
 <!-- BLOG-POST-LIST:END -->
 
 </details>
