@@ -56,6 +56,8 @@
 <summary> <b>📊 Weekly Stats</b> </summary>
 
 <!--START_SECTION:waka-->
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C259%20hrs%2011%20mins-blue)
+
 **🐱 My GitHub Data** 
 
 > 📦 678.1 kB Used in GitHub's Storage 
@@ -99,7 +101,7 @@ No Activity Tracked This Week
 ```
 
 
- Last Updated on 28/03/2025 00:52:42 UTC
+ Last Updated on 29/03/2025 00:52:21 UTC
 <!--END_SECTION:waka-->
 
 </details>
