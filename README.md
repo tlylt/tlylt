@@ -97,11 +97,12 @@ Sunday                   1857 commits        ████░░░░░░░�
 🕑︎ Time Zone: Asia/Singapore
 
 💬 Programming Languages: 
-No Activity Tracked This Week
+Markdown                 4 mins              █████████████████████████   99.37 % 
+YAML                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.63 % 
 ```
 
 
- Last Updated on 31/03/2025 00:57:07 UTC
+ Last Updated on 01/04/2025 01:00:51 UTC
 <!--END_SECTION:waka-->
 
 </details>
