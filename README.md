@@ -43,11 +43,11 @@
 <summary> <b>📕 Latest Blog Posts</b> </summary>
 
 <!-- BLOG-POST-LIST:START -->
+- [2025 Spring SWE Reading Summary](https://yongliangliu.com/blog/2025-spring-swe-reading)
 - [Go Race Detector Observations](https://yongliangliu.com/blog/go-race-detector)
 - [A Vue Component Library Template With TypeScript and Vite](https://yongliangliu.com/blog/vue-component-starter-template)
 - [The Need For Speed to Deliver Your Website Fast](https://yongliangliu.com/blog/the-need-for-speed-web-dev)
 - [Go defer Can Mess Up Your Intended Code Logic](https://yongliangliu.com/blog/go-defer-ordering)
-- [Go Nil Pointer Dereference Problem with FindXXX](https://yongliangliu.com/blog/go-nil-pointer-dereference)
 <!-- BLOG-POST-LIST:END -->
 
 </details>
