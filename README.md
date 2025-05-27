@@ -56,7 +56,7 @@
 <summary> <b>📊 Weekly Stats</b> </summary>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C282%20hrs%2011%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C282%20hrs%2025%20mins-blue)
 
 **🐱 My GitHub Data** 
 
@@ -97,11 +97,11 @@ Sunday                   1869 commits        ████░░░░░░░�
 🕑︎ Time Zone: Asia/Singapore
 
 💬 Programming Languages: 
-Markdown                 58 mins             █████████████████████████   100.00 % 
+Markdown                 56 mins             █████████████████████████   100.00 % 
 ```
 
 
- Last Updated on 26/05/2025 00:59:25 UTC
+ Last Updated on 27/05/2025 00:56:24 UTC
 <!--END_SECTION:waka-->
 
 </details>
