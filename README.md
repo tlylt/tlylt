@@ -56,7 +56,7 @@
 <summary> <b>📊 Weekly Stats</b> </summary>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C303%20hrs%209%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C303%20hrs%2035%20mins-blue)
 
 **🐱 My GitHub Data** 
 
@@ -101,7 +101,7 @@ Markdown                 34 mins             ███████████�
 ```
 
 
- Last Updated on 21/10/2025 00:56:31 UTC
+ Last Updated on 22/10/2025 00:57:53 UTC
 <!--END_SECTION:waka-->
 
 </details>
